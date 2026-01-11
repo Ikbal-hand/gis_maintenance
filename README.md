@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/Backend-Python_Flask-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/ML-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-> **Judul Skripsi:** Pemetaan Tingkat Kerusakan Perangkat Elektronik Pada Mitra Alfamart Menggunakan Algoritma K-Means Clustering Untuk Prioritas Maintenance.
+> **Judul :** Pemetaan Tingkat Kerusakan Perangkat Elektronik Pada Mitra Alfamart Menggunakan Algoritma K-Means Clustering Untuk Prioritas Maintenance.
 
 ---
 
