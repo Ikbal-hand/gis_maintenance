@@ -1,3 +1,4 @@
+
 # 🎓 Sistem Prioritas Maintenance Berbasis K-Means Clustering
 
 ![React](https://img.shields.io/badge/Frontend-React_Vite-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -5,7 +6,9 @@
 ![Python](https://img.shields.io/badge/Backend-Python_Flask-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/ML-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-> **Judul :** Pemetaan Tingkat Kerusakan Perangkat Elektronik Pada Mitra Alfamart Menggunakan Algoritma K-Means Clustering Untuk Prioritas Maintenance.
+> **Judul Skripsi:** Pemetaan Tingkat Kerusakan Perangkat Elektronik Pada Mitra Alfamart Menggunakan Algoritma K-Means Clustering Untuk Prioritas Maintenance.
+
+---
 
 ## 🖼️ Tampilan Aplikasi
 
@@ -18,12 +21,13 @@
 
 ## 📖 Deskripsi Proyek
 
-Aplikasi ini dirancang untuk membantu **CV. Berkarya Satu Tujuan** dalam menentukan prioritas perbaikan perangkat elektronik di ribuan gerai mitra. Sistem mengolah data historis **BAP (Tiket Kerusakan)** dan **Invoice Biaya** menggunakan algoritma **Machine Learning (K-Means Clustering)**.
+Aplikasi ini dibangun untuk membantu **CV. Berkarya Satu Tujuan** dalam mengelola prioritas perbaikan aset elektronik (Printer, UPS, Boiler, dll) di ribuan gerai Alfamart.
 
-Tujuan utamanya adalah mengelompokkan toko menjadi 3 klaster prioritas:
-1.  🔴 **High Priority:** Frekuensi kerusakan tinggi & Biaya perbaikan mahal (High Cost).
-2.  🟡 **Medium Priority:** Kondisi kerusakan dan biaya sedang.
-3.  🟢 **Low Priority:** Jarang rusak & biaya rendah (Low Cost).
+Sistem mengolah data historis **BAP (Berita Acara Pemeriksaan)** dan **Invoice Biaya** menggunakan algoritma **Machine Learning (K-Means Clustering)** untuk mengelompokkan toko menjadi 3 prioritas:
+
+1.  🔴 **High Priority:** Toko dengan frekuensi kerusakan tinggi & biaya perbaikan besar (High Cost).
+2.  🟡 **Medium Priority:** Toko dengan tingkat kerusakan dan biaya sedang.
+3.  🟢 **Low Priority:** Toko yang jarang rusak & biaya rendah (Low Cost).
 
 ---
 
@@ -33,106 +37,102 @@ Tujuan utamanya adalah mengelompokkan toko menjadi 3 klaster prioritas:
 >
 > Fitur **Peta Sebaran (GIS)** pada versi ini masih dalam tahap **Preview / Prototype**.
 >
-> 1.  **Keterbatasan Data Alamat:** Data alamat mentah dari sistem lama tidak terstruktur (unstructured text), sehingga proses *Geocoding* otomatis sering kali meleset atau tidak menemukan titik koordinat yang presisi.
-> 2.  **Kendala Waktu:** Untuk mencapai akurasi 100%, diperlukan proses validasi manual satu per satu terhadap ribuan data toko, yang memakan waktu di luar lingkup penelitian saat ini.
-> 3.  **Pengembangan Lanjut:** Saat ini peta digunakan sebagai **visualisasi indikatif**. Perbaikan akurasi koordinat GPS akan dilakukan pada tahap pengembangan sistem selanjutnya (Future Work).
+> 1.  **Keterbatasan Data Alamat:** Data alamat mentah dari sistem lama berbentuk teks tidak terstruktur (*unstructured text*), sehingga proses konversi ke koordinat GPS (*Geocoding*) otomatis memiliki tingkat kegagalan tertentu.
+> 2.  **Solusi Saat Ini:** Sistem menggunakan database koordinat semi-otomatis (`gps_store.json`) yang telah divalidasi sebagian.
+> 3.  **Pengembangan Lanjut:** Untuk akurasi 100%, diperlukan proses validasi manual (survey lapangan/verifikasi titik) yang akan dilakukan pada pengembangan sistem selanjutnya (*Future Work*).
 
 ---
 
-## 🛠️ Fitur Utama
+## 🛠️ Fitur Utama & Keunggulan
 
-* ✅ **Dashboard Real-time:** Menampilkan total tiket, total biaya, dan jumlah toko prioritas.
-* ✅ **Clustering Otomatis:** Menggunakan K-Means untuk membagi toko berdasarkan *Frequency* & *Monetary*.
-* ✅ **Peta Interaktif:** Visualisasi sebaran toko dengan warna marker sesuai prioritas.
-* ✅ **Filtering Wilayah:** Filter data berdasarkan Zona (Bandung, Garut, Tasikmalaya, dll).
-* ✅ **Manajemen Data Aman:** Integrasi Google Sheets tanpa merusak data asli (menggunakan `gps_store.json` lokal).
+* ✅ **Dynamic Training (Train on Fly):** Model K-Means dilatih ulang secara otomatis *on-the-fly* setiap kali data diambil. Sistem selalu cerdas mengikuti data terbaru tanpa perlu upload model manual.
+* ✅ **Dashboard Real-time:** Menampilkan total tiket, total biaya operasional, dan grafik klasterisasi.
+* ✅ **Analisis RFM (Modified):** Menggunakan variabel *Frequency* (Jumlah Tiket) dan *Monetary* (Total Biaya).
+* ✅ **Peta Interaktif:** Visualisasi sebaran toko dengan penanda warna (Merah/Kuning/Hijau) sesuai prioritas.
+* ✅ **Filtering Wilayah:** Filter data spesifik untuk area Bandung Raya, Garut, Tasikmalaya, dll.
 
 ---
 
-## 🎓 Panduan Penyusunan Laporan Skripsi
+## 🎓 Panduan Penyusunan Laporan Skripsi (Bab 2, 3, 4)
 
-Bagian ini adalah catatan khusus untuk penyusunan dokumen Bab 2 (Landasan Teori) dan Bab 3/4 (Metodologi & Pembahasan) agar sinkron dengan kode program.
+Bagian ini berisi referensi teknis yang digunakan dalam kode program untuk dicantumkan dalam Laporan Akademik.
 
-### 1. Landasan Teori yang Wajib Ada (Bab 2)
-Pastikan Anda mencari referensi buku/jurnal untuk topik berikut:
-* **Data Mining:** Definisi, tahapan KDD (Knowledge Discovery in Databases).
-* **Clustering:** Konsep *Unsupervised Learning*.
-* **Algoritma K-Means:** Cara kerja, penentuan Centroid, dan iterasi.
-* **RFM Analysis:** Fokus pada dimensi **Frequency** (Jumlah Laporan) dan **Monetary** (Total Biaya) yang digunakan di aplikasi ini.
-* **Euclidean Distance:** Rumus jarak yang digunakan K-Means.
-* **Z-Score Normalization (Standard Scaler):** Sangat penting karena di kode kita menggunakan `StandardScaler`.
+### 1. Metodologi: "Train on Fly" (Dynamic Modeling)
+Aplikasi ini menerapkan konsep **Dynamic Training**, berbeda dengan aplikasi ML konvensional yang menggunakan model statis (`.pkl`).
 
-### 2. Rumus-Rumus yang Digunakan (Bab 3)
-Di laporan, jangan hanya tulis rumus K-Means biasa. Tuliskan rumus spesifik yang ada di kode `app.py`:
+**Alasan Penggunaan:**
+* **Data Dinamis:** Data kerusakan bertambah setiap hari. Model statis akan cepat kadaluarsa (*obsolete*).
+* **Adaptabilitas:** Dengan melatih ulang model setiap kali *request* data, algoritma K-Means dapat menyesuaikan titik pusat (*centroid*) klaster berdasarkan tren biaya terbaru secara *real-time*.
+* **Efisiensi Maintenance:** Tidak diperlukan tenaga ahli AI untuk melakukan *re-training* manual secara berkala.
+
+**Alur Proses (`app.py`):**
+`Request API` $\rightarrow$ `Fetch Data Google Sheet` $\rightarrow$ `Cleaning & Scaling` $\rightarrow$ `Training K-Means (Fit)` $\rightarrow$ `Labeling` $\rightarrow$ `Response JSON`.
+
+### 2. Rumus & Algoritma
 
 **A. Normalisasi Data (Standard Scaler)**
-Sebelum masuk K-Means, data biaya (jutaan) dan frekuensi (satuan) disetarakan skalanya menggunakan Z-Score:
+Data biaya (puluhan juta) dan frekuensi (satuan) memiliki skala yang jauh berbeda. Untuk mencegah bias, dilakukan normalisasi Z-Score:
 $$z = \frac{x - \mu}{\sigma}$$
-*Dimana:*
-* $x$ = Nilai asli (misal: Biaya Rp 100jt).
-* $\mu$ = Rata-rata (Mean) dari seluruh data.
-* $\sigma$ = Standar Deviasi.
+*Keterangan: $x$ = nilai asli, $\mu$ = rata-rata, $\sigma$ = standar deviasi.*
 
-**B. Jarak Euclidean (Euclidean Distance)**
-Untuk mengukur jarak data toko ke titik pusat cluster (Centroid):
+**B. K-Means Clustering (Euclidean Distance)**
+Jarak antar data toko ke pusat klaster (*centroid*) dihitung menggunakan Euclidean Distance:
 $$d(p,q) = \sqrt{\sum_{i=1}^{n} (q_i - p_i)^2}$$
-*Dalam kasus ini:*
+Dalam konteks ini:
 $$d = \sqrt{(Freq_{toko} - Freq_{centroid})^2 + (Biaya_{toko} - Biaya_{centroid})^2}$$
 
-### 3. Alur Logika Program (Flowchart)
-1.  **Input:** Baca data Google Sheets (Tab BAP & DETAIL).
-2.  **Cleaning:**
-    * Gabung tabel berdasarkan `NO BAP`.
-    * **Penting:** Bersihkan format uang (`Rp 150.000,00` -> `150000`).
-3.  **Transformasi:** Hitung Total Frekuensi & Total Biaya per Toko.
-4.  **Normalisasi:** Scaling data menggunakan Standard Scaler.
-5.  **Modeling:** Penerapan K-Means ($k=3$).
-6.  **Labeling:**
-    * Cluster rata-rata biaya tertinggi -> **High**.
-    * Cluster rata-rata biaya terendah -> **Low**.
-7.  **Mapping:** Gabung hasil cluster dengan koordinat GPS dari `gps_store.json`.
-8.  **Output:** JSON API untuk Frontend.
+### 3. Landasan Teori (Keyword Pencarian)
+* **Knowledge Discovery in Databases (KDD):** Proses ekstraksi pola dari data.
+* **Unsupervised Learning:** Teknik ML tanpa data latih berlabel.
+* **Elbow Method:** (Opsional) Metode menentukan jumlah cluster optimal (kita menggunakan $k=3$ berdasarkan kebutuhan bisnis: High, Medium, Low).
 
 ---
 
 ## 🚀 Cara Menjalankan Aplikasi
 
 ### A. Persyaratan Sistem
-* Node.js (v18+)
-* Python (v3.10+)
-* Google Cloud Service Account (`credentials.json`)
+* Node.js (v18 ke atas)
+* Python (v3.10 ke atas)
+* Koneksi Internet (untuk Google Sheets & Maps API)
 
-### B. Menjalankan Backend (Python)
+### B. Menjalankan Backend (Python Flask)
+Backend bertugas menarik data, membersihkan format uang, melatih model AI, dan mengirim JSON.
+
 ```bash
-# 1. Masuk folder root & Install library
+# 1. Masuk folder root proyek
+# 2. Install library yang dibutuhkan
 pip install flask flask-cors pandas scikit-learn gspread oauth2client geopy
-
-# 2. Pastikan file credentials.json & gps_store.json sudah ada
 
 # 3. Jalankan Server
 python app.py
 
 ```
 
-### C. Menjalankan Frontend (React)
+> **Catatan:** Tunggu pesan "🚀 Server Backend Berjalan..." di terminal.
+
+### C. Menjalankan Frontend (React Vite)
+
+Frontend bertugas menampilkan Dashboard UI yang user-friendly.
 
 ```bash
-# 1. Masuk folder frontend
+# 1. Buka terminal baru, masuk folder frontend
 cd frontend
 
-# 2. Install dependency (jika belum)
+# 2. Install dependency
 npm install
 
-# 3. Jalankan Vite Server
+# 3. Jalankan Server Frontend
 npm run dev
 
 ```
 
+> **Akses:** Buka browser dan kunjungi alamat yang muncul (biasanya `http://localhost:5173`).
+
 ---
 
-## 🙈 .gitignore (File yang WAJIB Di-ignore)
+## 🙈 .gitignore (File yang Diabaikan)
 
-Jangan pernah meng-upload file berikut ke GitHub/GitLab publik:
+File-file berikut **TIDAK** di-upload ke repository publik demi keamanan:
 
 ```text
 # Python
@@ -145,13 +145,17 @@ env/
 node_modules/
 dist/
 
-# Security & Data (SANGAT PENTING)
-credentials.json
+# Security & Data Privasi
+credentials.json    <-- Kunci akses Google Cloud (RAHASIA)
 .env
-gps_store.json  <-- Opsional: Boleh di-commit jika ingin simpan data GPS, tapi ignore jika ingin generate ulang.
+gps_store.json      <-- Database GPS lokal
 
 ```
+
+---
 
 **Developed by:** Muhamad Ikbal Handini
 **Program Studi:** Teknik Informatika
 **Tahun:** 2026
+
+```
