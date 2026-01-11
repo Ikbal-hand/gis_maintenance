@@ -1,4 +1,4 @@
-# 🎓 Sistem Prioritas Maintenance Berbasis K-Means Clustering (SKRIPSI-AI)
+# 🎓 Sistem Prioritas Maintenance Berbasis K-Means Clustering
 
 ![React](https://img.shields.io/badge/Frontend-React_Vite-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Styling-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -157,7 +157,5 @@ gps_store.json  <-- Opsional: Boleh di-commit jika ingin simpan data GPS, tapi i
 **Developed by:** Muhamad Ikbal Handini
 **Program Studi:** Teknik Informatika
 **Tahun:** 2026
-
-```
 
 ```
