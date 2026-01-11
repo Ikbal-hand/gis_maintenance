@@ -1,0 +1,5547 @@
+{
+  "data": [
+    {
+      "NAMA TOKO": "Unknown Store",
+      "frequency": 1,
+      "kode_toko": "",
+      "lat": -6.912678511859351,
+      "lng": 107.63846596481592,
+      "priority": "Low Priority",
+      "total_cost": 0.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "BABAKAN SARI",
+      "frequency": 2,
+      "kode_toko": "B017",
+      "lat": -6.885734467051884,
+      "lng": 107.61230159256353,
+      "priority": "Medium Priority",
+      "total_cost": 35000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIPADUNG",
+      "frequency": 1,
+      "kode_toko": "B033",
+      "lat": -6.868321257760156,
+      "lng": 107.57291850884054,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "GEUSAN ULUN",
+      "frequency": 2,
+      "kode_toko": "B065",
+      "lat": -6.873546372930347,
+      "lng": 107.6520274924267,
+      "priority": "Low Priority",
+      "total_cost": 24000000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "JALAPRANG",
+      "frequency": 3,
+      "kode_toko": "B101",
+      "lat": -6.951433989680438,
+      "lng": 107.61502598906927,
+      "priority": "Medium Priority",
+      "total_cost": 67000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SAMARANG GARUT",
+      "frequency": 1,
+      "kode_toko": "B151",
+      "lat": -6.930317066835651,
+      "lng": 107.65397601897014,
+      "priority": "Low Priority",
+      "total_cost": 10000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "LENGKONG BESAR",
+      "frequency": 1,
+      "kode_toko": "B172",
+      "lat": -6.931070818821564,
+      "lng": 107.57872839817948,
+      "priority": "Low Priority",
+      "total_cost": 14875000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "ANTAPANI CICAHEUM",
+      "frequency": 1,
+      "kode_toko": "B190",
+      "lat": -6.879431982908231,
+      "lng": 107.6103651161071,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SADANG SERANG",
+      "frequency": 3,
+      "kode_toko": "B204",
+      "lat": -6.884728819442257,
+      "lng": 107.57968881262542,
+      "priority": "Medium Priority",
+      "total_cost": 24875000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "RIUNG BANDUNG",
+      "frequency": 2,
+      "kode_toko": "B215",
+      "lat": -6.913244024617268,
+      "lng": 107.6006946196186,
+      "priority": "Medium Priority",
+      "total_cost": 40500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "JATINANGOR 2",
+      "frequency": 1,
+      "kode_toko": "B239",
+      "lat": -6.881907253382256,
+      "lng": 107.63908390204291,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "PASIR LUYU",
+      "frequency": 3,
+      "kode_toko": "B247",
+      "lat": -6.924583630517707,
+      "lng": 107.60922279250433,
+      "priority": "High Priority",
+      "total_cost": 92375000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIMUNCANG",
+      "frequency": 1,
+      "kode_toko": "B249",
+      "lat": -6.961465067133218,
+      "lng": 107.65374439607726,
+      "priority": "Low Priority",
+      "total_cost": 34000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "WARTA",
+      "frequency": 1,
+      "kode_toko": "B252",
+      "lat": -6.903985461225226,
+      "lng": 107.58823539878821,
+      "priority": "Medium Priority",
+      "total_cost": 66500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "ADIPURA",
+      "frequency": 1,
+      "kode_toko": "B272",
+      "lat": -6.887331155703059,
+      "lng": 107.63339372184792,
+      "priority": "Low Priority",
+      "total_cost": 31000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "DAGO PAKAR",
+      "frequency": 1,
+      "kode_toko": "B304",
+      "lat": -6.869725916040097,
+      "lng": 107.66724904861394,
+      "priority": "Medium Priority",
+      "total_cost": 64000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "WARUNG CINA",
+      "frequency": 1,
+      "kode_toko": "B312",
+      "lat": -6.961199743282392,
+      "lng": 107.6212731252158,
+      "priority": "Low Priority",
+      "total_cost": 10000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "PASIR LAYUNG",
+      "frequency": 1,
+      "kode_toko": "B313",
+      "lat": -6.90880611721577,
+      "lng": 107.58153288073086,
+      "priority": "Low Priority",
+      "total_cost": 19000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "MARGAHAYU RAYA",
+      "frequency": 1,
+      "kode_toko": "B355",
+      "lat": -6.870801603973756,
+      "lng": 107.57354565356921,
+      "priority": "Medium Priority",
+      "total_cost": 64000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIBATU",
+      "frequency": 1,
+      "kode_toko": "B368",
+      "lat": -6.958645656688821,
+      "lng": 107.6676614802339,
+      "priority": "Medium Priority",
+      "total_cost": 72000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "CIGADUNG",
+      "frequency": 2,
+      "kode_toko": "B373",
+      "lat": -6.883859723536861,
+      "lng": 107.60227674873965,
+      "priority": "Medium Priority",
+      "total_cost": 28000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "MALANGBONG",
+      "frequency": 3,
+      "kode_toko": "B378",
+      "lat": -6.953364289608337,
+      "lng": 107.63283423639116,
+      "priority": "Medium Priority",
+      "total_cost": 32000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "GATSU BINONG",
+      "frequency": 1,
+      "kode_toko": "B387",
+      "lat": -6.875294166397098,
+      "lng": 107.58213851818421,
+      "priority": "Low Priority",
+      "total_cost": 34000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "TANJUNG RAYA",
+      "frequency": 1,
+      "kode_toko": "B398",
+      "lat": -6.952322633491934,
+      "lng": 107.58587966730796,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "TERMINAL DAGO",
+      "frequency": 2,
+      "kode_toko": "B429",
+      "lat": -6.885692977281276,
+      "lng": 107.64394080100901,
+      "priority": "Medium Priority",
+      "total_cost": 45000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "M.TOHA 4",
+      "frequency": 1,
+      "kode_toko": "B432",
+      "lat": -6.884907829009608,
+      "lng": 107.58364927944764,
+      "priority": "Low Priority",
+      "total_cost": 10000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "TERATAI RAYA",
+      "frequency": 1,
+      "kode_toko": "B469",
+      "lat": -6.943690481892991,
+      "lng": 107.59835452658447,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "PAMEUNGPEUK BANJARAN",
+      "frequency": 1,
+      "kode_toko": "B476",
+      "lat": -6.9572919458997395,
+      "lng": 107.62543289878651,
+      "priority": "Low Priority",
+      "total_cost": 16500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "TUBAGUS ISMAIL",
+      "frequency": 1,
+      "kode_toko": "B477",
+      "lat": -6.895544670582386,
+      "lng": 107.64447243671472,
+      "priority": "Low Priority",
+      "total_cost": 20000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SUCI GARUT",
+      "frequency": 1,
+      "kode_toko": "B487",
+      "lat": -6.9351216430998255,
+      "lng": 107.57644280081935,
+      "priority": "Medium Priority",
+      "total_cost": 64000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "PAPANDAYAN",
+      "frequency": 3,
+      "kode_toko": "B496",
+      "lat": -6.914847886128945,
+      "lng": 107.59981521634803,
+      "priority": "Medium Priority",
+      "total_cost": 33000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "SUPRATMAN",
+      "frequency": 2,
+      "kode_toko": "B499",
+      "lat": -6.9091505969595195,
+      "lng": 107.60671003723238,
+      "priority": "Low Priority",
+      "total_cost": 22000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "PANYAWUNGAN",
+      "frequency": 2,
+      "kode_toko": "B502",
+      "lat": -6.93546640008011,
+      "lng": 107.5994456018848,
+      "priority": "Low Priority",
+      "total_cost": 23800000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "KADUNGORA GARUT",
+      "frequency": 1,
+      "kode_toko": "B506",
+      "lat": -6.93554341366673,
+      "lng": 107.62719663141418,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "PANGHEGAR BARU",
+      "frequency": 1,
+      "kode_toko": "B508",
+      "lat": -6.926107331151221,
+      "lng": 107.66597518775882,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "MANISI",
+      "frequency": 1,
+      "kode_toko": "B511",
+      "lat": -6.920644730125302,
+      "lng": 107.64209103705434,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "LELES",
+      "frequency": 1,
+      "kode_toko": "B514",
+      "lat": -6.959281631129408,
+      "lng": 107.59349145601736,
+      "priority": "Medium Priority",
+      "total_cost": 64000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "RANCAEKEK TALUN",
+      "frequency": 4,
+      "kode_toko": "B515",
+      "lat": -6.9152542802638495,
+      "lng": 107.64282755590155,
+      "priority": "High Priority",
+      "total_cost": 123500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "TURANGGA",
+      "frequency": 2,
+      "kode_toko": "B517",
+      "lat": -6.941478337446002,
+      "lng": 107.60277808669254,
+      "priority": "Medium Priority",
+      "total_cost": 66500000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "PELAJAR PEJUANG 45",
+      "frequency": 1,
+      "kode_toko": "B521",
+      "lat": -6.960036006902639,
+      "lng": 107.62631901959305,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "PARAKAN MUNCANG",
+      "frequency": 1,
+      "kode_toko": "B522",
+      "lat": -6.892409306231707,
+      "lng": 107.5695686960009,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIAWI TIMUR",
+      "frequency": 3,
+      "kode_toko": "B525",
+      "lat": -6.962607837642107,
+      "lng": 107.6226601304389,
+      "priority": "Medium Priority",
+      "total_cost": 42000000.0,
+      "zone": "Tasikmalaya"
+    },
+    {
+      "NAMA TOKO": "PANGERAN KORNEL",
+      "frequency": 1,
+      "kode_toko": "B529",
+      "lat": -6.9188183220225055,
+      "lng": 107.57714846500257,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "SIMP PAMIJAHAN",
+      "frequency": 3,
+      "kode_toko": "B530",
+      "lat": -6.896160156762663,
+      "lng": 107.62259775573487,
+      "priority": "Medium Priority",
+      "total_cost": 66000000.0,
+      "zone": "Tasikmalaya"
+    },
+    {
+      "NAMA TOKO": "BOJONGLOA RANCAEKEK",
+      "frequency": 2,
+      "kode_toko": "B535",
+      "lat": -6.915600270894162,
+      "lng": 107.66521525229072,
+      "priority": "Medium Priority",
+      "total_cost": 30500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIPACING",
+      "frequency": 1,
+      "kode_toko": "B539",
+      "lat": -6.945825509886677,
+      "lng": 107.59548962128163,
+      "priority": "Low Priority",
+      "total_cost": 21300000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "MOCH HATTA",
+      "frequency": 1,
+      "kode_toko": "B543",
+      "lat": -6.931437091287779,
+      "lng": 107.63868167579182,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Tasikmalaya"
+    },
+    {
+      "NAMA TOKO": "DAGO 301",
+      "frequency": 3,
+      "kode_toko": "B550",
+      "lat": -6.920106132349663,
+      "lng": 107.64377607186505,
+      "priority": "High Priority",
+      "total_cost": 92000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "JELEKONG",
+      "frequency": 2,
+      "kode_toko": "B553",
+      "lat": -6.927654997555774,
+      "lng": 107.60924624935932,
+      "priority": "Medium Priority",
+      "total_cost": 30500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "MANONJAYA TSK",
+      "frequency": 3,
+      "kode_toko": "B555",
+      "lat": -6.933784472907297,
+      "lng": 107.5985166802084,
+      "priority": "High Priority",
+      "total_cost": 85500000.0,
+      "zone": "Tasikmalaya"
+    },
+    {
+      "NAMA TOKO": "PERMATA BIRU",
+      "frequency": 1,
+      "kode_toko": "B562",
+      "lat": -6.873547041025271,
+      "lng": 107.6134474522996,
+      "priority": "Medium Priority",
+      "total_cost": 64000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "BOJONG KONENG",
+      "frequency": 1,
+      "kode_toko": "B564",
+      "lat": -6.949047260014653,
+      "lng": 107.59807630018823,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "MULYA SARI",
+      "frequency": 1,
+      "kode_toko": "B568",
+      "lat": -6.884271244036754,
+      "lng": 107.59825031637841,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "YPKP",
+      "frequency": 6,
+      "kode_toko": "B569",
+      "lat": -6.898608580207237,
+      "lng": 107.64145418106818,
+      "priority": "High Priority",
+      "total_cost": 130000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "NAGREG",
+      "frequency": 1,
+      "kode_toko": "B572",
+      "lat": -6.9073625135435375,
+      "lng": 107.59150478893241,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CEMPAKA ARUM",
+      "frequency": 1,
+      "kode_toko": "B579",
+      "lat": -6.961362573858975,
+      "lng": 107.62415226711246,
+      "priority": "Low Priority",
+      "total_cost": 31000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "PERMATA HIJAU",
+      "frequency": 2,
+      "kode_toko": "B584",
+      "lat": -6.869186334809882,
+      "lng": 107.60052551868374,
+      "priority": "Low Priority",
+      "total_cost": 24000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SIMP DAYEUH KOLOT",
+      "frequency": 2,
+      "kode_toko": "B588",
+      "lat": -6.930524268845099,
+      "lng": 107.58601864481187,
+      "priority": "Medium Priority",
+      "total_cost": 51000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "KAWALU",
+      "frequency": 4,
+      "kode_toko": "B595",
+      "lat": -6.882875510219167,
+      "lng": 107.6036269292769,
+      "priority": "High Priority",
+      "total_cost": 73000000.0,
+      "zone": "Tasikmalaya"
+    },
+    {
+      "NAMA TOKO": "ADHIYAKSA BUAH BATU",
+      "frequency": 6,
+      "kode_toko": "B596",
+      "lat": -6.92619204413603,
+      "lng": 107.58420746477363,
+      "priority": "High Priority",
+      "total_cost": 125250000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "TERUSAN ANTAPANI",
+      "frequency": 1,
+      "kode_toko": "B600",
+      "lat": -6.9060902362706305,
+      "lng": 107.61304256713946,
+      "priority": "Low Priority",
+      "total_cost": 10000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "CILEDUG 108",
+      "frequency": 1,
+      "kode_toko": "B601",
+      "lat": -6.933364805377112,
+      "lng": 107.59868744040018,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "HUJUNG CIPARAY",
+      "frequency": 1,
+      "kode_toko": "B605",
+      "lat": -6.9150301756041666,
+      "lng": 107.6496592244674,
+      "priority": "Low Priority",
+      "total_cost": 10000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SINGAPARNA 2",
+      "frequency": 1,
+      "kode_toko": "B613",
+      "lat": -6.907391623004769,
+      "lng": 107.60733279896117,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Tasikmalaya"
+    },
+    {
+      "NAMA TOKO": "OTISTA 237",
+      "frequency": 3,
+      "kode_toko": "B615",
+      "lat": -6.957173308629374,
+      "lng": 107.58452051529024,
+      "priority": "Medium Priority",
+      "total_cost": 47000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "CIMANUK 336",
+      "frequency": 1,
+      "kode_toko": "B619",
+      "lat": -6.944999300112993,
+      "lng": 107.5885779117414,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "CINGISED",
+      "frequency": 1,
+      "kode_toko": "B621",
+      "lat": -6.887713098179217,
+      "lng": 107.57202481297517,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIMAUNG",
+      "frequency": 1,
+      "kode_toko": "B626",
+      "lat": -6.917639140384357,
+      "lng": 107.57816684682344,
+      "priority": "Low Priority",
+      "total_cost": 34000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "LOGAM",
+      "frequency": 1,
+      "kode_toko": "B630",
+      "lat": -6.933084031619795,
+      "lng": 107.63874503190488,
+      "priority": "Medium Priority",
+      "total_cost": 64000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "BATUNUNGGAL",
+      "frequency": 1,
+      "kode_toko": "B635",
+      "lat": -6.954324259428442,
+      "lng": 107.65101233862794,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "ANDIR CIPARAY",
+      "frequency": 1,
+      "kode_toko": "B636",
+      "lat": -6.9057429994777575,
+      "lng": 107.63620173053582,
+      "priority": "Low Priority",
+      "total_cost": 17500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "BANTARKALONG",
+      "frequency": 5,
+      "kode_toko": "B641",
+      "lat": -6.931551384431632,
+      "lng": 107.57137248305781,
+      "priority": "High Priority",
+      "total_cost": 174500000.0,
+      "zone": "Tasikmalaya"
+    },
+    {
+      "NAMA TOKO": "TANJUNG LAYA",
+      "frequency": 1,
+      "kode_toko": "B644",
+      "lat": -6.925834868994879,
+      "lng": 107.63916887383937,
+      "priority": "Low Priority",
+      "total_cost": 31000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "BUMI ORANGE",
+      "frequency": 1,
+      "kode_toko": "B649",
+      "lat": -6.871180819923458,
+      "lng": 107.65972637472952,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SOMA KIRCON",
+      "frequency": 1,
+      "kode_toko": "B652",
+      "lat": -6.892906740042725,
+      "lng": 107.58195071399338,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "TERUSAN MARTANEGARA",
+      "frequency": 1,
+      "kode_toko": "B655",
+      "lat": -6.907410207756606,
+      "lng": 107.63940478153384,
+      "priority": "Low Priority",
+      "total_cost": 31000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "LODAYA",
+      "frequency": 3,
+      "kode_toko": "B662",
+      "lat": -6.952441788629646,
+      "lng": 107.65470694181865,
+      "priority": "Medium Priority",
+      "total_cost": 48000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SURAPATI BARU",
+      "frequency": 1,
+      "kode_toko": "B663",
+      "lat": -6.9468475305084025,
+      "lng": 107.60945701900975,
+      "priority": "Low Priority",
+      "total_cost": 16500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "LENGKONG BESAR 101B",
+      "frequency": 1,
+      "kode_toko": "B665",
+      "lat": -6.934977410351792,
+      "lng": 107.61890792216131,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "LASWI 56",
+      "frequency": 2,
+      "kode_toko": "B684",
+      "lat": -6.9650783327158745,
+      "lng": 107.60160517516688,
+      "priority": "Medium Priority",
+      "total_cost": 28000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "BANTENG BARU",
+      "frequency": 1,
+      "kode_toko": "B686",
+      "lat": -6.919825193765669,
+      "lng": 107.6393674469713,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIBALONG",
+      "frequency": 3,
+      "kode_toko": "B691",
+      "lat": -6.899339659196079,
+      "lng": 107.64721763185847,
+      "priority": "Medium Priority",
+      "total_cost": 56000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "KIARACONDONG 427",
+      "frequency": 1,
+      "kode_toko": "B693",
+      "lat": -6.919068874725804,
+      "lng": 107.58558667169407,
+      "priority": "Low Priority",
+      "total_cost": 14875000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "WARUNG PEUTEUY",
+      "frequency": 1,
+      "kode_toko": "B697",
+      "lat": -6.8768589951452785,
+      "lng": 107.66642575656881,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "PASANGGRAHAN",
+      "frequency": 2,
+      "kode_toko": "B698",
+      "lat": -6.886530156446525,
+      "lng": 107.65953166543369,
+      "priority": "Medium Priority",
+      "total_cost": 58000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIKAJANG",
+      "frequency": 1,
+      "kode_toko": "B700",
+      "lat": -6.941680851495147,
+      "lng": 107.62586606137937,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "JAKSANARANATA",
+      "frequency": 1,
+      "kode_toko": "B704",
+      "lat": -6.946582214998789,
+      "lng": 107.61192596172009,
+      "priority": "Low Priority",
+      "total_cost": 39000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "LIMBANGAN 89",
+      "frequency": 2,
+      "kode_toko": "B712",
+      "lat": -6.904962485742775,
+      "lng": 107.58025284936978,
+      "priority": "Medium Priority",
+      "total_cost": 48000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "MOCH RAMDHAN 46",
+      "frequency": 1,
+      "kode_toko": "B714",
+      "lat": -6.92193849300109,
+      "lng": 107.65676465462941,
+      "priority": "Medium Priority",
+      "total_cost": 64000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "CIJAWURA GIRANG",
+      "frequency": 1,
+      "kode_toko": "B721",
+      "lat": -6.956165615212524,
+      "lng": 107.59546650595463,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "UJUNG BERUNG 121",
+      "frequency": 1,
+      "kode_toko": "B725",
+      "lat": -6.922520820514587,
+      "lng": 107.58538917527892,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "KADUNGORA 237",
+      "frequency": 1,
+      "kode_toko": "B728",
+      "lat": -6.871294911675019,
+      "lng": 107.6022161374363,
+      "priority": "Medium Priority",
+      "total_cost": 66000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "CIKONENG BOJONGSOANG",
+      "frequency": 1,
+      "kode_toko": "B729",
+      "lat": -6.931358449719822,
+      "lng": 107.66316734071789,
+      "priority": "Low Priority",
+      "total_cost": 16500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "KAWAH KAMOJANG",
+      "frequency": 1,
+      "kode_toko": "B734",
+      "lat": -6.907035338672969,
+      "lng": 107.63320376351037,
+      "priority": "Low Priority",
+      "total_cost": 16500000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "TEGAL KALONG",
+      "frequency": 2,
+      "kode_toko": "B735",
+      "lat": -6.953872242719547,
+      "lng": 107.64546782616615,
+      "priority": "Medium Priority",
+      "total_cost": 30500000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "SELA AWI BARU",
+      "frequency": 2,
+      "kode_toko": "B745",
+      "lat": -6.895451665353375,
+      "lng": 107.62664146741768,
+      "priority": "Medium Priority",
+      "total_cost": 52000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "TERS JAKARTA 186",
+      "frequency": 1,
+      "kode_toko": "B748",
+      "lat": -6.898470043669234,
+      "lng": 107.62345866054372,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SINERGI ANTAPANI",
+      "frequency": 2,
+      "kode_toko": "B756",
+      "lat": -6.914905680444029,
+      "lng": 107.57621130317136,
+      "priority": "Medium Priority",
+      "total_cost": 32500000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "GATSU 49",
+      "frequency": 3,
+      "kode_toko": "B761",
+      "lat": -6.869728368055969,
+      "lng": 107.66856434661186,
+      "priority": "High Priority",
+      "total_cost": 92000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SRIMAHI 42",
+      "frequency": 1,
+      "kode_toko": "B767",
+      "lat": -6.952743655167153,
+      "lng": 107.64384847114283,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIMENCRANG BARU",
+      "frequency": 1,
+      "kode_toko": "B771",
+      "lat": -6.944083405463002,
+      "lng": 107.5704082591462,
+      "priority": "Low Priority",
+      "total_cost": 31000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "GATSU 255",
+      "frequency": 1,
+      "kode_toko": "B773",
+      "lat": -6.950335421916251,
+      "lng": 107.61844170768126,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "A YANI 419",
+      "frequency": 1,
+      "kode_toko": "B776",
+      "lat": -6.941645401175486,
+      "lng": 107.60634049897091,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "H HASAN",
+      "frequency": 2,
+      "kode_toko": "B777",
+      "lat": -6.890353724396367,
+      "lng": 107.62058082650996,
+      "priority": "Medium Priority",
+      "total_cost": 31375000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "PADASUKA 41",
+      "frequency": 2,
+      "kode_toko": "B780",
+      "lat": -6.935794607305211,
+      "lng": 107.60497450179642,
+      "priority": "Medium Priority",
+      "total_cost": 45000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SOREANG [SOAG]",
+      "frequency": 1,
+      "kode_toko": "B783",
+      "lat": -6.937654266407769,
+      "lng": 107.56939981511896,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "PERMAI RAYA [PMIR]",
+      "frequency": 1,
+      "kode_toko": "B784",
+      "lat": -6.917229310315862,
+      "lng": 107.66401717351663,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "TAMAN KOPO II [TKO2]",
+      "frequency": 2,
+      "kode_toko": "B785",
+      "lat": -6.945881708340299,
+      "lng": 107.62807908007188,
+      "priority": "Low Priority",
+      "total_cost": 24000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CISEAH [CSEA]",
+      "frequency": 1,
+      "kode_toko": "B790",
+      "lat": -6.917452371757106,
+      "lng": 107.60623849620491,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SUKARAME [SUME]",
+      "frequency": 2,
+      "kode_toko": "B796",
+      "lat": -6.9006984681927985,
+      "lng": 107.6098385433698,
+      "priority": "Medium Priority",
+      "total_cost": 39000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "KATAPANG [KAPA]",
+      "frequency": 3,
+      "kode_toko": "B797",
+      "lat": -6.88665085217981,
+      "lng": 107.6042400849819,
+      "priority": "Medium Priority",
+      "total_cost": 32000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SIMPANG MAHMUD [SPMU]",
+      "frequency": 1,
+      "kode_toko": "B799",
+      "lat": -6.919395672228522,
+      "lng": 107.61916352219762,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "PASIR JAMBU [PJBU]",
+      "frequency": 1,
+      "kode_toko": "B803",
+      "lat": -6.884775901764121,
+      "lng": 107.6514404163003,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "CINCIN SOREANG [CINS]",
+      "frequency": 1,
+      "kode_toko": "B805",
+      "lat": -6.9134477949606765,
+      "lng": 107.65851851838188,
+      "priority": "Low Priority",
+      "total_cost": 31000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "CIWIDEY 2 (FRC)_ [CWE2]",
+      "frequency": 1,
+      "kode_toko": "B808",
+      "lat": -6.948330912063155,
+      "lng": 107.62934844460823,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "BANJARAN 3 (FRC)_ [BJA3]",
+      "frequency": 1,
+      "kode_toko": "B809",
+      "lat": -6.910692692453077,
+      "lng": 107.58813857987572,
+      "priority": "Medium Priority",
+      "total_cost": 64000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "SANGGAR MAS BJRN",
+      "frequency": 2,
+      "kode_toko": "B811",
+      "lat": -6.888232231903005,
+      "lng": 107.62521830843626,
+      "priority": "Low Priority",
+      "total_cost": 18000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SUKAMENAK (FRC)_ [SNAK]",
+      "frequency": 2,
+      "kode_toko": "B812",
+      "lat": -6.960793118016576,
+      "lng": 107.60504092685322,
+      "priority": "Medium Priority",
+      "total_cost": 78000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SANGGAR INDAH (FRC)_ [SGIH]",
+      "frequency": 2,
+      "kode_toko": "B816",
+      "lat": -6.9275514901561275,
+      "lng": 107.66588905137453,
+      "priority": "Low Priority",
+      "total_cost": 18000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SUKAMENAK EMERALD (FRC)_ [SMLD]",
+      "frequency": 1,
+      "kode_toko": "B817",
+      "lat": -6.877292736262922,
+      "lng": 107.65258191256183,
+      "priority": "Medium Priority",
+      "total_cost": 64000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CILEUNYI 905",
+      "frequency": 1,
+      "kode_toko": "B820",
+      "lat": -6.899535730261718,
+      "lng": 107.58573158934529,
+      "priority": "Low Priority",
+      "total_cost": 17000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "GARUDA [GADA]",
+      "frequency": 1,
+      "kode_toko": "B851",
+      "lat": -6.943080979838918,
+      "lng": 107.65110532478963,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "KEBON JATI [KATI]",
+      "frequency": 2,
+      "kode_toko": "B852",
+      "lat": -6.910282534377639,
+      "lng": 107.64259680639513,
+      "priority": "Medium Priority",
+      "total_cost": 28000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "PASAR BARU SELATAN [PBUS]",
+      "frequency": 1,
+      "kode_toko": "B854",
+      "lat": -6.880452962274891,
+      "lng": 107.63096520500625,
+      "priority": "Low Priority",
+      "total_cost": 26500000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "SPBU CIBEUREUM (FRC)_ [SUCI]",
+      "frequency": 1,
+      "kode_toko": "B857",
+      "lat": -6.871512265768041,
+      "lng": 107.58609380498419,
+      "priority": "Low Priority",
+      "total_cost": 39000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "ASTANA ANYAR [ASAR]",
+      "frequency": 4,
+      "kode_toko": "B864",
+      "lat": -6.943273232669685,
+      "lng": 107.62843420967958,
+      "priority": "High Priority",
+      "total_cost": 54500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "KOPO 62 [KP62]",
+      "frequency": 1,
+      "kode_toko": "B865",
+      "lat": -6.917146667818699,
+      "lng": 107.64974965021685,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "ASTANA ANYAR 3 [ATA3]",
+      "frequency": 3,
+      "kode_toko": "B866",
+      "lat": -6.883885353264434,
+      "lng": 107.60972720535284,
+      "priority": "Medium Priority",
+      "total_cost": 65000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "KOPO CITARIP [KOCI]",
+      "frequency": 1,
+      "kode_toko": "B868",
+      "lat": -6.914785608025093,
+      "lng": 107.60955622188317,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "KOPO ASIH (FRC)_ [KOSI]",
+      "frequency": 2,
+      "kode_toko": "B870",
+      "lat": -6.950666276419723,
+      "lng": 107.58944050464298,
+      "priority": "Medium Priority",
+      "total_cost": 52000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SUDIRMAN [SUMA]",
+      "frequency": 1,
+      "kode_toko": "B871",
+      "lat": -6.874722263312659,
+      "lng": 107.64227176224388,
+      "priority": "Medium Priority",
+      "total_cost": 64000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "PAGARSIH 238 [PGSI]",
+      "frequency": 1,
+      "kode_toko": "B874",
+      "lat": -6.885063218418562,
+      "lng": 107.58250853764203,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "SOETA",
+      "frequency": 1,
+      "kode_toko": "B882",
+      "lat": -6.96229035456622,
+      "lng": 107.57148362131667,
+      "priority": "Low Priority",
+      "total_cost": 31000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIUMBULEUIT [CBLT]",
+      "frequency": 1,
+      "kode_toko": "B884",
+      "lat": -6.942959573345964,
+      "lng": 107.64627382885605,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "OTISTA 389",
+      "frequency": 1,
+      "kode_toko": "B890",
+      "lat": -6.876421726570384,
+      "lng": 107.65898491588757,
+      "priority": "Low Priority",
+      "total_cost": 19000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "WARUNG LOBAK 2 [WLO2]",
+      "frequency": 1,
+      "kode_toko": "B895",
+      "lat": -6.9321903614832605,
+      "lng": 107.57118128730735,
+      "priority": "Low Priority",
+      "total_cost": 27375000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "CIKAWAO 33",
+      "frequency": 2,
+      "kode_toko": "B897",
+      "lat": -6.89292656466978,
+      "lng": 107.63309686253751,
+      "priority": "Medium Priority",
+      "total_cost": 78000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "WANGISAGARA",
+      "frequency": 2,
+      "kode_toko": "B902",
+      "lat": -6.9226463198322,
+      "lng": 107.63461977610864,
+      "priority": "Medium Priority",
+      "total_cost": 83000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "TANJUNGKERTA",
+      "frequency": 1,
+      "kode_toko": "B903",
+      "lat": -6.938479322497398,
+      "lng": 107.60988873751327,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "CILULUK CIJAPATI",
+      "frequency": 1,
+      "kode_toko": "B904",
+      "lat": -6.918430396005706,
+      "lng": 107.66859541320609,
+      "priority": "Low Priority",
+      "total_cost": 16500000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "LENGKONG BESAR BARU",
+      "frequency": 1,
+      "kode_toko": "B928",
+      "lat": -6.9316243760472664,
+      "lng": 107.58532323399565,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "TOLENGAS",
+      "frequency": 4,
+      "kode_toko": "B930",
+      "lat": -6.888904397911315,
+      "lng": 107.58024980041837,
+      "priority": "High Priority",
+      "total_cost": 85000000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "CIBODAS CIKAJANG",
+      "frequency": 1,
+      "kode_toko": "B931",
+      "lat": -6.893169544822961,
+      "lng": 107.65548709589105,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "BUANASARI",
+      "frequency": 1,
+      "kode_toko": "B935",
+      "lat": -6.885441924740598,
+      "lng": 107.6465607106185,
+      "priority": "Low Priority",
+      "total_cost": 16500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "PADASUKA SUMEDANG",
+      "frequency": 1,
+      "kode_toko": "B936",
+      "lat": -6.904421863829075,
+      "lng": 107.64017125751307,
+      "priority": "Low Priority",
+      "total_cost": 31000000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "PATROL BALEENDAH",
+      "frequency": 1,
+      "kode_toko": "B941",
+      "lat": -6.924647058524446,
+      "lng": 107.58777228052936,
+      "priority": "Low Priority",
+      "total_cost": 31000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "BOJONGSOANG 187",
+      "frequency": 4,
+      "kode_toko": "B942",
+      "lat": -6.888706922168579,
+      "lng": 107.63843520664622,
+      "priority": "High Priority",
+      "total_cost": 41375000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "PARAKAN MAS BARU",
+      "frequency": 2,
+      "kode_toko": "B947",
+      "lat": -6.891693334045216,
+      "lng": 107.66477777229696,
+      "priority": "Medium Priority",
+      "total_cost": 90500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "TAMAN KOPO INDAH 1 (FRC)_ [TKI1]",
+      "frequency": 2,
+      "kode_toko": "B948",
+      "lat": -6.946972018046578,
+      "lng": 107.58192985675326,
+      "priority": "Low Priority",
+      "total_cost": 18000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "BOJONG PEUTEUY",
+      "frequency": 2,
+      "kode_toko": "B952",
+      "lat": -6.948509551680394,
+      "lng": 107.63177743567297,
+      "priority": "Medium Priority",
+      "total_cost": 30500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "RIUNG BANDUNG 2",
+      "frequency": 3,
+      "kode_toko": "B958",
+      "lat": -6.915792093518169,
+      "lng": 107.57705090298877,
+      "priority": "Medium Priority",
+      "total_cost": 69000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "PALABUAN SUMEDANG",
+      "frequency": 1,
+      "kode_toko": "B959",
+      "lat": -6.895773031707252,
+      "lng": 107.6274672392674,
+      "priority": "Low Priority",
+      "total_cost": 10000000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "KIRISIK",
+      "frequency": 2,
+      "kode_toko": "B967",
+      "lat": -6.8875104023266935,
+      "lng": 107.66123564674501,
+      "priority": "Low Priority",
+      "total_cost": 24000000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "ARCAMANIK",
+      "frequency": 1,
+      "kode_toko": "B968",
+      "lat": -6.879834244117044,
+      "lng": 107.58249083305518,
+      "priority": "Low Priority",
+      "total_cost": 24000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIBADUYUT",
+      "frequency": 2,
+      "kode_toko": "B969",
+      "lat": -6.9546723305751526,
+      "lng": 107.57815848558955,
+      "priority": "Medium Priority",
+      "total_cost": 28000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "TAJIMALELA BARU",
+      "frequency": 1,
+      "kode_toko": "B977",
+      "lat": -6.9439441617223645,
+      "lng": 107.59561077479715,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "LIMBANGAN BARU",
+      "frequency": 1,
+      "kode_toko": "B979",
+      "lat": -6.8775312104419735,
+      "lng": 107.5763157903163,
+      "priority": "Medium Priority",
+      "total_cost": 64000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "PANGERAN SUGIH",
+      "frequency": 1,
+      "kode_toko": "B981",
+      "lat": -6.871791260321843,
+      "lng": 107.59899555821953,
+      "priority": "Low Priority",
+      "total_cost": 26500000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "CIPAOK",
+      "frequency": 1,
+      "kode_toko": "B983",
+      "lat": -6.910066524254948,
+      "lng": 107.59770231080863,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "CIMUJA",
+      "frequency": 2,
+      "kode_toko": "B989",
+      "lat": -6.877526811702821,
+      "lng": 107.61242971707375,
+      "priority": "Medium Priority",
+      "total_cost": 70500000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "LAMPEGAN",
+      "frequency": 1,
+      "kode_toko": "B990",
+      "lat": -6.938283184562234,
+      "lng": 107.58196981440875,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "MALAYU SAMARANG",
+      "frequency": 2,
+      "kode_toko": "B997",
+      "lat": -6.903017139774224,
+      "lng": 107.62751924738083,
+      "priority": "Medium Priority",
+      "total_cost": 28000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "KARANGPAWITAN",
+      "frequency": 2,
+      "kode_toko": "BC01",
+      "lat": -6.961978422172458,
+      "lng": 107.64537870411701,
+      "priority": "Low Priority",
+      "total_cost": 18000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "SUCINARAJA",
+      "frequency": 1,
+      "kode_toko": "BC04",
+      "lat": -6.960948925421669,
+      "lng": 107.63431135295275,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "TANGSIMEKAR",
+      "frequency": 2,
+      "kode_toko": "BC07",
+      "lat": -6.880513023417801,
+      "lng": 107.57612614543088,
+      "priority": "Low Priority",
+      "total_cost": 18000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "JL. ANGGREK",
+      "frequency": 3,
+      "kode_toko": "BC12",
+      "lat": -6.915291849369659,
+      "lng": 107.64676950561136,
+      "priority": "Medium Priority",
+      "total_cost": 32000000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "SIMPANG SANTOLO",
+      "frequency": 1,
+      "kode_toko": "BC13",
+      "lat": -6.951302342939414,
+      "lng": 107.6298879076267,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "PANGGILINGAN",
+      "frequency": 1,
+      "kode_toko": "BC15",
+      "lat": -6.891865476978839,
+      "lng": 107.60754403870051,
+      "priority": "Low Priority",
+      "total_cost": 16500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "RAYA BANJARAN",
+      "frequency": 3,
+      "kode_toko": "BC19",
+      "lat": -6.949725692816023,
+      "lng": 107.61568126729958,
+      "priority": "High Priority",
+      "total_cost": 82000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "PASIR JENGKOL",
+      "frequency": 3,
+      "kode_toko": "BC33",
+      "lat": -6.957157026655961,
+      "lng": 107.6245877814113,
+      "priority": "Medium Priority",
+      "total_cost": 68500000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "JUANDA",
+      "frequency": 2,
+      "kode_toko": "BC36",
+      "lat": -6.943534132205065,
+      "lng": 107.65151967967212,
+      "priority": "Medium Priority",
+      "total_cost": 52000000.0,
+      "zone": "Tasikmalaya"
+    },
+    {
+      "NAMA TOKO": "CIMANUK 95",
+      "frequency": 2,
+      "kode_toko": "BC41",
+      "lat": -6.9485338118734905,
+      "lng": 107.66849050376466,
+      "priority": "Medium Priority",
+      "total_cost": 64000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "SINDANG JAYA",
+      "frequency": 2,
+      "kode_toko": "BC44",
+      "lat": -6.870645155876556,
+      "lng": 107.66905507363876,
+      "priority": "Medium Priority",
+      "total_cost": 28000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "MANIRANCAN",
+      "frequency": 1,
+      "kode_toko": "BC45",
+      "lat": -6.892778801136791,
+      "lng": 107.62685017055627,
+      "priority": "Low Priority",
+      "total_cost": 26500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "PURNAWARMAN 22",
+      "frequency": 3,
+      "kode_toko": "BC47",
+      "lat": -6.944633364176773,
+      "lng": 107.6209833478492,
+      "priority": "High Priority",
+      "total_cost": 145000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "RANCAKALONG",
+      "frequency": 2,
+      "kode_toko": "BC52",
+      "lat": -6.944786926166545,
+      "lng": 107.66695686148353,
+      "priority": "Medium Priority",
+      "total_cost": 28000000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "CIMURAH KARANGPAWITA",
+      "frequency": 4,
+      "kode_toko": "BC56",
+      "lat": -6.964126683659279,
+      "lng": 107.6235935098307,
+      "priority": "High Priority",
+      "total_cost": 87875000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "LETNAN HARUN",
+      "frequency": 1,
+      "kode_toko": "BC61",
+      "lat": -6.888367279729741,
+      "lng": 107.6495036972782,
+      "priority": "Low Priority",
+      "total_cost": 16500000.0,
+      "zone": "Tasikmalaya"
+    },
+    {
+      "NAMA TOKO": "CIKONENG CIPARAY",
+      "frequency": 1,
+      "kode_toko": "BC68",
+      "lat": -6.965892170167959,
+      "lng": 107.57534855586567,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "PALASARI",
+      "frequency": 1,
+      "kode_toko": "BC71",
+      "lat": -6.885608317529859,
+      "lng": 107.66870514190846,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "OTISTA 199",
+      "frequency": 1,
+      "kode_toko": "BC86",
+      "lat": -6.955308252440421,
+      "lng": 107.59914296736434,
+      "priority": "Low Priority",
+      "total_cost": 16500000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "CIMANUK 326",
+      "frequency": 1,
+      "kode_toko": "BC87",
+      "lat": -6.920561853134039,
+      "lng": 107.64741113261006,
+      "priority": "Low Priority",
+      "total_cost": 10000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "LELES 2",
+      "frequency": 2,
+      "kode_toko": "BC88",
+      "lat": -6.962255393598302,
+      "lng": 107.59307321980882,
+      "priority": "Low Priority",
+      "total_cost": 18000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "TEGAL PANJANG",
+      "frequency": 1,
+      "kode_toko": "BC93",
+      "lat": -6.911794071014244,
+      "lng": 107.6334283663372,
+      "priority": "Medium Priority",
+      "total_cost": 88000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "CANGKRING",
+      "frequency": 1,
+      "kode_toko": "BC94",
+      "lat": -6.914795747449638,
+      "lng": 107.58495351298318,
+      "priority": "Low Priority",
+      "total_cost": 16500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CILEDUG GARUT",
+      "frequency": 2,
+      "kode_toko": "BC97",
+      "lat": -6.9220920343721195,
+      "lng": 107.57504725966683,
+      "priority": "Low Priority",
+      "total_cost": 18000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "KERSAMANAH",
+      "frequency": 2,
+      "kode_toko": "BD01",
+      "lat": -6.881223381405271,
+      "lng": 107.65630975994712,
+      "priority": "Medium Priority",
+      "total_cost": 39000000.0,
+      "zone": "Tasikmalaya"
+    },
+    {
+      "NAMA TOKO": "PRABU GAJAH AGUNG",
+      "frequency": 1,
+      "kode_toko": "BD02",
+      "lat": -6.963539098190444,
+      "lng": 107.6334676039215,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "MOCH TOHA 373",
+      "frequency": 3,
+      "kode_toko": "BD12",
+      "lat": -6.9349516258950175,
+      "lng": 107.6016850595114,
+      "priority": "Medium Priority",
+      "total_cost": 73000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "HAMPOR SAMARANG",
+      "frequency": 2,
+      "kode_toko": "BD13",
+      "lat": -6.9483470637463105,
+      "lng": 107.6376995685974,
+      "priority": "Medium Priority",
+      "total_cost": 51500000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "SINDANGKERTA",
+      "frequency": 2,
+      "kode_toko": "BD14",
+      "lat": -6.8890533343731715,
+      "lng": 107.60634409745501,
+      "priority": "Medium Priority",
+      "total_cost": 45875000.0,
+      "zone": "Tasikmalaya"
+    },
+    {
+      "NAMA TOKO": "NARIPAN",
+      "frequency": 2,
+      "kode_toko": "BD16",
+      "lat": -6.886805194505019,
+      "lng": 107.59396818907076,
+      "priority": "Low Priority",
+      "total_cost": 19000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "APT PINEWOOD",
+      "frequency": 1,
+      "kode_toko": "BD17",
+      "lat": -6.915247873854485,
+      "lng": 107.60038502241922,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "CIKOPO BUMIWANGI",
+      "frequency": 1,
+      "kode_toko": "BD19",
+      "lat": -6.895518478423747,
+      "lng": 107.58523156635927,
+      "priority": "Low Priority",
+      "total_cost": 31000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "BANTAR",
+      "frequency": 2,
+      "kode_toko": "BD22",
+      "lat": -6.8846399100503275,
+      "lng": 107.6285658055783,
+      "priority": "Low Priority",
+      "total_cost": 18000000.0,
+      "zone": "Tasikmalaya"
+    },
+    {
+      "NAMA TOKO": "PURI MEGA CITRA",
+      "frequency": 1,
+      "kode_toko": "BD24",
+      "lat": -6.927470557688167,
+      "lng": 107.64231644180266,
+      "priority": "Low Priority",
+      "total_cost": 26500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "PASIR TUKUL",
+      "frequency": 2,
+      "kode_toko": "BD25",
+      "lat": -6.957427604105545,
+      "lng": 107.57491840275262,
+      "priority": "Medium Priority",
+      "total_cost": 36000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIAPUS BANJARAN",
+      "frequency": 3,
+      "kode_toko": "BD26",
+      "lat": -6.905151419813713,
+      "lng": 107.57563191162124,
+      "priority": "Medium Priority",
+      "total_cost": 64500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "PAGEUR AGEUNG",
+      "frequency": 1,
+      "kode_toko": "BD33",
+      "lat": -6.90857910238563,
+      "lng": 107.60413312493228,
+      "priority": "Low Priority",
+      "total_cost": 34000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "TURANGGA 35",
+      "frequency": 1,
+      "kode_toko": "BD39",
+      "lat": -6.946743663144824,
+      "lng": 107.58153481740747,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "INDRAMAYU ANTAPANI",
+      "frequency": 1,
+      "kode_toko": "BD40",
+      "lat": -6.950125159854702,
+      "lng": 107.60357953608816,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "CIKAREO WADO",
+      "frequency": 1,
+      "kode_toko": "BD45",
+      "lat": -6.9049533622170784,
+      "lng": 107.66076053160381,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "MANGGUNGHARJA",
+      "frequency": 3,
+      "kode_toko": "BD49",
+      "lat": -6.872256937650955,
+      "lng": 107.57784568808866,
+      "priority": "Medium Priority",
+      "total_cost": 47500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "PEMBANGUNAN 33",
+      "frequency": 1,
+      "kode_toko": "BD53",
+      "lat": -6.9385884852605795,
+      "lng": 107.64368817519924,
+      "priority": "Low Priority",
+      "total_cost": 26500000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "PASEH 118",
+      "frequency": 1,
+      "kode_toko": "BD60",
+      "lat": -6.904887646204735,
+      "lng": 107.61482998168621,
+      "priority": "Medium Priority",
+      "total_cost": 64000000.0,
+      "zone": "Tasikmalaya"
+    },
+    {
+      "NAMA TOKO": "YUPITER TENGAH",
+      "frequency": 3,
+      "kode_toko": "BD68",
+      "lat": -6.919140443913729,
+      "lng": 107.65241920687289,
+      "priority": "High Priority",
+      "total_cost": 85000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "REST AREA KM 149 B",
+      "frequency": 2,
+      "kode_toko": "BD70",
+      "lat": -6.873695894428302,
+      "lng": 107.6630408213019,
+      "priority": "Medium Priority",
+      "total_cost": 38000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "LICIN CIMALAKA",
+      "frequency": 1,
+      "kode_toko": "BD77",
+      "lat": -6.905247787540114,
+      "lng": 107.6636503877874,
+      "priority": "Low Priority",
+      "total_cost": 20000000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "SEKARWANGI",
+      "frequency": 2,
+      "kode_toko": "BD81",
+      "lat": -6.926647288159221,
+      "lng": 107.62013778707481,
+      "priority": "Low Priority",
+      "total_cost": 20500000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "PASIR BIRU",
+      "frequency": 1,
+      "kode_toko": "BD88",
+      "lat": -6.876129010901338,
+      "lng": 107.59731010293528,
+      "priority": "Low Priority",
+      "total_cost": 26500000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "CLOM GADO",
+      "frequency": 1,
+      "kode_toko": "BD93",
+      "lat": -6.936461348582227,
+      "lng": 107.59046092615814,
+      "priority": "Low Priority",
+      "total_cost": 26500000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "MIM BLOK E",
+      "frequency": 1,
+      "kode_toko": "BD94",
+      "lat": -6.914483461596023,
+      "lng": 107.61863889577218,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "CEMPAKA INDAH",
+      "frequency": 1,
+      "kode_toko": "BD99",
+      "lat": -6.900523259131089,
+      "lng": 107.60173792666137,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "JINGKANG",
+      "frequency": 1,
+      "kode_toko": "BE02",
+      "lat": -6.892902391698362,
+      "lng": 107.59096434519819,
+      "priority": "Low Priority",
+      "total_cost": 16500000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "SAGARACIPTA",
+      "frequency": 1,
+      "kode_toko": "BE08",
+      "lat": -6.931205278529503,
+      "lng": 107.58757800774771,
+      "priority": "Low Priority",
+      "total_cost": 17000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "BUGEL",
+      "frequency": 1,
+      "kode_toko": "BE11",
+      "lat": -6.906037956645772,
+      "lng": 107.61176938242538,
+      "priority": "Low Priority",
+      "total_cost": 26500000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "SUKATALI",
+      "frequency": 1,
+      "kode_toko": "BE12",
+      "lat": -6.915651678006703,
+      "lng": 107.66521737340028,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "JATIHANDAP 33",
+      "frequency": 1,
+      "kode_toko": "BE13",
+      "lat": -6.879673656810744,
+      "lng": 107.60315255311724,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "GANEAS BARU",
+      "frequency": 1,
+      "kode_toko": "BE15",
+      "lat": -6.899083802913903,
+      "lng": 107.61865860317998,
+      "priority": "Low Priority",
+      "total_cost": 16500000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "CIPAMOKOLAN",
+      "frequency": 4,
+      "kode_toko": "BE16",
+      "lat": -6.938417086952251,
+      "lng": 107.57839515259715,
+      "priority": "High Priority",
+      "total_cost": 83000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SIMP.BAYONGBONG BARU",
+      "frequency": 1,
+      "kode_toko": "BE20",
+      "lat": -6.904279888909314,
+      "lng": 107.66879420477495,
+      "priority": "Medium Priority",
+      "total_cost": 66500000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "ANGKREK 126",
+      "frequency": 1,
+      "kode_toko": "BE25",
+      "lat": -6.920280708128614,
+      "lng": 107.59356764622763,
+      "priority": "Low Priority",
+      "total_cost": 10000000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "TERS BUAH BATU 244",
+      "frequency": 1,
+      "kode_toko": "BE28",
+      "lat": -6.935751238155882,
+      "lng": 107.63606649249155,
+      "priority": "Low Priority",
+      "total_cost": 16500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "GUNUNG PUYUH",
+      "frequency": 1,
+      "kode_toko": "BE31",
+      "lat": -6.962551518925468,
+      "lng": 107.5857182368036,
+      "priority": "Low Priority",
+      "total_cost": 39000000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "RANCASALAK",
+      "frequency": 3,
+      "kode_toko": "BE33",
+      "lat": -6.874208606726363,
+      "lng": 107.63669131031551,
+      "priority": "Medium Priority",
+      "total_cost": 56000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "CARINGIN JATINANGOR",
+      "frequency": 3,
+      "kode_toko": "BE35",
+      "lat": -6.89761925928629,
+      "lng": 107.66045939902581,
+      "priority": "Medium Priority",
+      "total_cost": 32000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "SIMPANGSARI BARU",
+      "frequency": 1,
+      "kode_toko": "BE38",
+      "lat": -6.957668447215281,
+      "lng": 107.60997377322596,
+      "priority": "Medium Priority",
+      "total_cost": 64000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "SUDIRMAN BARU",
+      "frequency": 3,
+      "kode_toko": "BE39",
+      "lat": -6.946868880100267,
+      "lng": 107.58540971906434,
+      "priority": "High Priority",
+      "total_cost": 88875000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "PADASUKA 81",
+      "frequency": 2,
+      "kode_toko": "BE40",
+      "lat": -6.8792007404990025,
+      "lng": 107.58766880126869,
+      "priority": "Medium Priority",
+      "total_cost": 32800000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "WANARAJA",
+      "frequency": 2,
+      "kode_toko": "BE41",
+      "lat": -6.874360606021564,
+      "lng": 107.65484664840328,
+      "priority": "Medium Priority",
+      "total_cost": 52000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "KSB SURYALAYA",
+      "frequency": 2,
+      "kode_toko": "BE42",
+      "lat": -6.931087863555666,
+      "lng": 107.57893576248433,
+      "priority": "Medium Priority",
+      "total_cost": 51500000.0,
+      "zone": "Tasikmalaya"
+    },
+    {
+      "NAMA TOKO": "CISITU BARU",
+      "frequency": 2,
+      "kode_toko": "BE45",
+      "lat": -6.872641358270412,
+      "lng": 107.61338328416826,
+      "priority": "Low Priority",
+      "total_cost": 19000000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "BOJONG MALAKA",
+      "frequency": 1,
+      "kode_toko": "BE47",
+      "lat": -6.959470430033745,
+      "lng": 107.65539652108336,
+      "priority": "Medium Priority",
+      "total_cost": 64000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "KH AHMAD SADILI",
+      "frequency": 3,
+      "kode_toko": "BE49",
+      "lat": -6.962780552056086,
+      "lng": 107.60441631026212,
+      "priority": "Medium Priority",
+      "total_cost": 59000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "LEGOK SMD",
+      "frequency": 1,
+      "kode_toko": "BE52",
+      "lat": -6.898458760260669,
+      "lng": 107.5909724816764,
+      "priority": "Medium Priority",
+      "total_cost": 64000000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "MANGKUBUMI",
+      "frequency": 1,
+      "kode_toko": "BE54",
+      "lat": -6.867972894179949,
+      "lng": 107.64721434562124,
+      "priority": "Low Priority",
+      "total_cost": 26500000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "KOTABARU CIBEUREUM",
+      "frequency": 4,
+      "kode_toko": "BE60",
+      "lat": -6.885833660410875,
+      "lng": 107.59740187641977,
+      "priority": "High Priority",
+      "total_cost": 134000000.0,
+      "zone": "Tasikmalaya"
+    },
+    {
+      "NAMA TOKO": "CIODENG",
+      "frequency": 1,
+      "kode_toko": "BE67",
+      "lat": -6.934742441231988,
+      "lng": 107.61347896850108,
+      "priority": "Low Priority",
+      "total_cost": 16500000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "BOJONG RANCAMANYAR",
+      "frequency": 3,
+      "kode_toko": "BE68",
+      "lat": -6.948885691656304,
+      "lng": 107.66256189619492,
+      "priority": "Medium Priority",
+      "total_cost": 66000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "SARIMEKAR",
+      "frequency": 2,
+      "kode_toko": "BE70",
+      "lat": -6.95361214951628,
+      "lng": 107.66769403105994,
+      "priority": "Medium Priority",
+      "total_cost": 30500000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "LEBAKWANGI",
+      "frequency": 2,
+      "kode_toko": "BE71",
+      "lat": -6.906835937810477,
+      "lng": 107.63268501102326,
+      "priority": "Medium Priority",
+      "total_cost": 35000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "SAPAN SUMBERSARI",
+      "frequency": 1,
+      "kode_toko": "BE72",
+      "lat": -6.920351613904317,
+      "lng": 107.65231493435698,
+      "priority": "Low Priority",
+      "total_cost": 44000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "KARANGNUNGGAL",
+      "frequency": 3,
+      "kode_toko": "BE73",
+      "lat": -6.917842102814121,
+      "lng": 107.58937979875938,
+      "priority": "High Priority",
+      "total_cost": 179000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "CIKONENG RAYA",
+      "frequency": 4,
+      "kode_toko": "BE74",
+      "lat": -6.960677487589319,
+      "lng": 107.63962429495984,
+      "priority": "High Priority",
+      "total_cost": 87000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "PASIR HUNI CIMAUNG",
+      "frequency": 1,
+      "kode_toko": "BE75",
+      "lat": -6.934815410273595,
+      "lng": 107.59796392385906,
+      "priority": "Low Priority",
+      "total_cost": 26500000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "CIGANITRI LENGKONG",
+      "frequency": 1,
+      "kode_toko": "BE77",
+      "lat": -6.9562872691100965,
+      "lng": 107.60621956748373,
+      "priority": "Medium Priority",
+      "total_cost": 64000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "LOGAM 39",
+      "frequency": 1,
+      "kode_toko": "BE78",
+      "lat": -6.9594383208256865,
+      "lng": 107.63234631379183,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "PANGERAN KORNEL 256",
+      "frequency": 1,
+      "kode_toko": "BE80",
+      "lat": -6.899114223623172,
+      "lng": 107.64311188116992,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "TAGOG CILEUNYI",
+      "frequency": 3,
+      "kode_toko": "BE85",
+      "lat": -6.9236481971919455,
+      "lng": 107.63530558880505,
+      "priority": "Medium Priority",
+      "total_cost": 52000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "CIKANCUNG",
+      "frequency": 1,
+      "kode_toko": "BE87",
+      "lat": -6.920814900793594,
+      "lng": 107.6650055203891,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIGANITRI 21",
+      "frequency": 2,
+      "kode_toko": "BE89",
+      "lat": -6.9338976949997235,
+      "lng": 107.63803401359357,
+      "priority": "Medium Priority",
+      "total_cost": 35000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "DARMAWANGI",
+      "frequency": 1,
+      "kode_toko": "BE90",
+      "lat": -6.937719562468714,
+      "lng": 107.62436539639575,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "BOJONGGAMBIR",
+      "frequency": 3,
+      "kode_toko": "BE92",
+      "lat": -6.909914836785385,
+      "lng": 107.57651434504999,
+      "priority": "High Priority",
+      "total_cost": 83000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "LINGKAR JATI GEDE",
+      "frequency": 2,
+      "kode_toko": "BE96",
+      "lat": -6.961844124687739,
+      "lng": 107.58838704096422,
+      "priority": "Medium Priority",
+      "total_cost": 100000000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "DUTA FAMILY",
+      "frequency": 2,
+      "kode_toko": "BE99",
+      "lat": -6.924574006615505,
+      "lng": 107.57376848181292,
+      "priority": "Low Priority",
+      "total_cost": 20000000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "PANENJOAN CICALENGKA",
+      "frequency": 2,
+      "kode_toko": "BG01",
+      "lat": -6.950617857953204,
+      "lng": 107.6497327948987,
+      "priority": "Medium Priority",
+      "total_cost": 50500000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "MARONGGE",
+      "frequency": 1,
+      "kode_toko": "BG05",
+      "lat": -6.918721506633003,
+      "lng": 107.57203471425457,
+      "priority": "Low Priority",
+      "total_cost": 16500000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "MARGAMULYA",
+      "frequency": 1,
+      "kode_toko": "BG06",
+      "lat": -6.950560066395384,
+      "lng": 107.59682248006789,
+      "priority": "Low Priority",
+      "total_cost": 34000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "INDIHIANG",
+      "frequency": 1,
+      "kode_toko": "BG08",
+      "lat": -6.9402811209459365,
+      "lng": 107.58426155833195,
+      "priority": "Medium Priority",
+      "total_cost": 64000000.0,
+      "zone": "Tasikmalaya"
+    },
+    {
+      "NAMA TOKO": "MANCAGAHAR",
+      "frequency": 2,
+      "kode_toko": "BG10",
+      "lat": -6.894813636992125,
+      "lng": 107.6591380156813,
+      "priority": "Medium Priority",
+      "total_cost": 70000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "AWIPARI",
+      "frequency": 1,
+      "kode_toko": "BG11",
+      "lat": -6.934886467827264,
+      "lng": 107.63600890464404,
+      "priority": "Low Priority",
+      "total_cost": 2500000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "PANGERAN SUGIH 33",
+      "frequency": 2,
+      "kode_toko": "BG12",
+      "lat": -6.943059556497087,
+      "lng": 107.58334884748014,
+      "priority": "Medium Priority",
+      "total_cost": 47500000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "SERANG CIMALAKA",
+      "frequency": 1,
+      "kode_toko": "BG13",
+      "lat": -6.939024324091737,
+      "lng": 107.60533985121573,
+      "priority": "Low Priority",
+      "total_cost": 26500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SUKAPURA WADO",
+      "frequency": 1,
+      "kode_toko": "BG14",
+      "lat": -6.897231183377117,
+      "lng": 107.65910061910901,
+      "priority": "Low Priority",
+      "total_cost": 34300000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "SUKADANA CIKAJANG",
+      "frequency": 1,
+      "kode_toko": "BG15",
+      "lat": -6.868762703102798,
+      "lng": 107.63241692915042,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "RSU TASIKMALAYA",
+      "frequency": 4,
+      "kode_toko": "BG16",
+      "lat": -6.955711196343102,
+      "lng": 107.61101111952566,
+      "priority": "High Priority",
+      "total_cost": 185000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "KARANGPAKUAN",
+      "frequency": 4,
+      "kode_toko": "BG18",
+      "lat": -6.90366041553442,
+      "lng": 107.64919637045257,
+      "priority": "High Priority",
+      "total_cost": 96500000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "CIKALONG",
+      "frequency": 1,
+      "kode_toko": "BG20",
+      "lat": -6.877146537526908,
+      "lng": 107.65766812815158,
+      "priority": "Medium Priority",
+      "total_cost": 64000000.0,
+      "zone": "Tasikmalaya"
+    },
+    {
+      "NAMA TOKO": "BALEENDAH 2",
+      "frequency": 3,
+      "kode_toko": "BG21",
+      "lat": -6.906283766414993,
+      "lng": 107.63743283428931,
+      "priority": "High Priority",
+      "total_cost": 103000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIJATIHILIR",
+      "frequency": 2,
+      "kode_toko": "BG22",
+      "lat": -6.967453641833024,
+      "lng": 107.63587846220192,
+      "priority": "Low Priority",
+      "total_cost": 24000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "CIMALAKA RAHAYU",
+      "frequency": 1,
+      "kode_toko": "BG23",
+      "lat": -6.902894625354829,
+      "lng": 107.65481655625015,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "CIPICUNG BALEENDAH",
+      "frequency": 4,
+      "kode_toko": "BG24",
+      "lat": -6.956958248949501,
+      "lng": 107.58304064972648,
+      "priority": "High Priority",
+      "total_cost": 117000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "GRAND ASIA AFRIKA",
+      "frequency": 2,
+      "kode_toko": "BG25",
+      "lat": -6.889988748755881,
+      "lng": 107.61374522387214,
+      "priority": "Medium Priority",
+      "total_cost": 28000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "WARUNG KAWAT",
+      "frequency": 1,
+      "kode_toko": "BG27",
+      "lat": -6.92863924539312,
+      "lng": 107.61730040487525,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "PERINTIS 158",
+      "frequency": 2,
+      "kode_toko": "BG30",
+      "lat": -6.904911117641998,
+      "lng": 107.62747327883162,
+      "priority": "Medium Priority",
+      "total_cost": 52000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "RANCAMANYAR",
+      "frequency": 5,
+      "kode_toko": "BG31",
+      "lat": -6.953091523502801,
+      "lng": 107.63615858739696,
+      "priority": "High Priority",
+      "total_cost": 56000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "BANYURESMI",
+      "frequency": 2,
+      "kode_toko": "BG33",
+      "lat": -6.891530130752149,
+      "lng": 107.66518886875039,
+      "priority": "Medium Priority",
+      "total_cost": 40500000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "JELEGONG 51",
+      "frequency": 1,
+      "kode_toko": "BG36",
+      "lat": -6.947824684783174,
+      "lng": 107.66858457497099,
+      "priority": "Low Priority",
+      "total_cost": 16500000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "KSO BENGPUSPAL",
+      "frequency": 1,
+      "kode_toko": "BG37",
+      "lat": -6.935302874037507,
+      "lng": 107.58404493910002,
+      "priority": "Low Priority",
+      "total_cost": 34000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "KIARACONDONG 314",
+      "frequency": 1,
+      "kode_toko": "BG38",
+      "lat": -6.919474939399959,
+      "lng": 107.63543966119944,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "CIATEUL 58",
+      "frequency": 1,
+      "kode_toko": "BG39",
+      "lat": -6.9381305571118475,
+      "lng": 107.60152570185677,
+      "priority": "Low Priority",
+      "total_cost": 19000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "MEKAR UTAMA",
+      "frequency": 2,
+      "kode_toko": "BG47",
+      "lat": -6.945222055886536,
+      "lng": 107.62966922256817,
+      "priority": "Medium Priority",
+      "total_cost": 78000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "TAMANSARI PANORAMIC",
+      "frequency": 3,
+      "kode_toko": "BG49",
+      "lat": -6.926715968158688,
+      "lng": 107.64141078773898,
+      "priority": "Medium Priority",
+      "total_cost": 54800000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "CIBIRU 597",
+      "frequency": 2,
+      "kode_toko": "BG52",
+      "lat": -6.89696494326906,
+      "lng": 107.57297248270548,
+      "priority": "Medium Priority",
+      "total_cost": 62000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "SUKAMANAH 365",
+      "frequency": 1,
+      "kode_toko": "BG54",
+      "lat": -6.942619548108052,
+      "lng": 107.61976991601921,
+      "priority": "Low Priority",
+      "total_cost": 7300000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "PESANTREN AMANAH",
+      "frequency": 4,
+      "kode_toko": "BG55",
+      "lat": -6.9062868816182545,
+      "lng": 107.64889048823719,
+      "priority": "High Priority",
+      "total_cost": 99500000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "GREEN SUKAMANAH",
+      "frequency": 2,
+      "kode_toko": "BG57",
+      "lat": -6.867867407177885,
+      "lng": 107.62078764380348,
+      "priority": "Medium Priority",
+      "total_cost": 58000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "IBRAHIM ADJI 23",
+      "frequency": 1,
+      "kode_toko": "BG63",
+      "lat": -6.872649134803522,
+      "lng": 107.57795842189753,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "CIPACING JATINANGOR",
+      "frequency": 1,
+      "kode_toko": "BG67",
+      "lat": -6.9114939829214395,
+      "lng": 107.61979756285443,
+      "priority": "Low Priority",
+      "total_cost": 26500000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "TERA RESIDENCE",
+      "frequency": 1,
+      "kode_toko": "BG69",
+      "lat": -6.906068189451975,
+      "lng": 107.59644238659166,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "BANDREK",
+      "frequency": 2,
+      "kode_toko": "BG71",
+      "lat": -6.9030191553495515,
+      "lng": 107.63201835901378,
+      "priority": "Medium Priority",
+      "total_cost": 35000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "PASIRWANGI",
+      "frequency": 1,
+      "kode_toko": "BG78",
+      "lat": -6.892554197877847,
+      "lng": 107.58571771551952,
+      "priority": "Medium Priority",
+      "total_cost": 64000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "CITERE PANGALENGAN",
+      "frequency": 1,
+      "kode_toko": "BG82",
+      "lat": -6.886811995589184,
+      "lng": 107.5949572448817,
+      "priority": "Low Priority",
+      "total_cost": 31000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "SAMARANG 35",
+      "frequency": 1,
+      "kode_toko": "BG83",
+      "lat": -6.871492594552988,
+      "lng": 107.62226912492793,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "MERDEKA 09",
+      "frequency": 1,
+      "kode_toko": "BG84",
+      "lat": -6.8747973144904755,
+      "lng": 107.62003214241776,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "CIPARI MANGKUBUMI",
+      "frequency": 3,
+      "kode_toko": "BG85",
+      "lat": -6.94197416200194,
+      "lng": 107.58264549254726,
+      "priority": "Medium Priority",
+      "total_cost": 37500000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "BUAH DUA",
+      "frequency": 1,
+      "kode_toko": "BG86",
+      "lat": -6.928387239599312,
+      "lng": 107.59606773490391,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "CIKARAMAS",
+      "frequency": 1,
+      "kode_toko": "BG87",
+      "lat": -6.927701848804404,
+      "lng": 107.5711676194371,
+      "priority": "Low Priority",
+      "total_cost": 26500000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "KARANG TAWULAN",
+      "frequency": 1,
+      "kode_toko": "BG89",
+      "lat": -6.9657290916007515,
+      "lng": 107.58734185396555,
+      "priority": "Medium Priority",
+      "total_cost": 64000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "CIBEUREUM KERTASARI",
+      "frequency": 1,
+      "kode_toko": "BG91",
+      "lat": -6.90827821648366,
+      "lng": 107.58361208526506,
+      "priority": "Low Priority",
+      "total_cost": 16500000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "A.YANI 257",
+      "frequency": 2,
+      "kode_toko": "BH03",
+      "lat": -6.926507158572198,
+      "lng": 107.60910616675697,
+      "priority": "Low Priority",
+      "total_cost": 19000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "BUMI PANYAWANGAN",
+      "frequency": 1,
+      "kode_toko": "BH07",
+      "lat": -6.910307629649934,
+      "lng": 107.57991974085415,
+      "priority": "Low Priority",
+      "total_cost": 34000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "MOCH RAMDHAN",
+      "frequency": 1,
+      "kode_toko": "BH08",
+      "lat": -6.91194846797371,
+      "lng": 107.66304387960028,
+      "priority": "Low Priority",
+      "total_cost": 16500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "NEGLASARI",
+      "frequency": 3,
+      "kode_toko": "BH10",
+      "lat": -6.8750418258999755,
+      "lng": 107.61185329273918,
+      "priority": "Medium Priority",
+      "total_cost": 66000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "CIHAMPELAS 206",
+      "frequency": 1,
+      "kode_toko": "BH11",
+      "lat": -6.924331591983666,
+      "lng": 107.60596356584036,
+      "priority": "Low Priority",
+      "total_cost": 16500000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "BRIGHT SUKAMANAH",
+      "frequency": 3,
+      "kode_toko": "BH12",
+      "lat": -6.903543924763841,
+      "lng": 107.64554505276374,
+      "priority": "Medium Priority",
+      "total_cost": 38875000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "CINAGARA",
+      "frequency": 1,
+      "kode_toko": "BH13",
+      "lat": -6.940800612314549,
+      "lng": 107.61691523342,
+      "priority": "Low Priority",
+      "total_cost": 16500000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "TALAGASARI",
+      "frequency": 4,
+      "kode_toko": "BH15",
+      "lat": -6.910555419116268,
+      "lng": 107.66628273270751,
+      "priority": "High Priority",
+      "total_cost": 101000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "WALINI RANCAEKEK",
+      "frequency": 1,
+      "kode_toko": "BH20",
+      "lat": -6.8823352918315015,
+      "lng": 107.62745883449712,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "ANWAR MUSADAD",
+      "frequency": 4,
+      "kode_toko": "BH21",
+      "lat": -6.916185011684136,
+      "lng": 107.61263795066387,
+      "priority": "High Priority",
+      "total_cost": 92500000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "PERMATA BUAH BATU",
+      "frequency": 2,
+      "kode_toko": "BH22",
+      "lat": -6.893427814787374,
+      "lng": 107.61830428562172,
+      "priority": "Medium Priority",
+      "total_cost": 98000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "KAMASAN BANJARAN",
+      "frequency": 1,
+      "kode_toko": "BH23",
+      "lat": -6.8888503838952015,
+      "lng": 107.6546093516313,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SUKALAKSANA",
+      "frequency": 2,
+      "kode_toko": "BH25",
+      "lat": -6.921594306078346,
+      "lng": 107.62868049590513,
+      "priority": "Medium Priority",
+      "total_cost": 85500000.0,
+      "zone": "Tasikmalaya"
+    },
+    {
+      "NAMA TOKO": "RE JAELANI",
+      "frequency": 1,
+      "kode_toko": "BH26",
+      "lat": -6.892168969002617,
+      "lng": 107.61701742231389,
+      "priority": "Low Priority",
+      "total_cost": 40500000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "RANCABOLANG 167",
+      "frequency": 1,
+      "kode_toko": "BH27",
+      "lat": -6.892791631621918,
+      "lng": 107.5704446038363,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "BRIGHT CIKAJANG",
+      "frequency": 1,
+      "kode_toko": "BH29",
+      "lat": -6.958742029513926,
+      "lng": 107.6356289363334,
+      "priority": "Medium Priority",
+      "total_cost": 64000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "TERUSAN PAHLAWAN 52",
+      "frequency": 2,
+      "kode_toko": "BH33",
+      "lat": -6.890078371830644,
+      "lng": 107.60812439981397,
+      "priority": "Medium Priority",
+      "total_cost": 62000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "BATUKARUT",
+      "frequency": 1,
+      "kode_toko": "BH36",
+      "lat": -6.909104974642164,
+      "lng": 107.62729525896883,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "KSB LEUWIPANJANG",
+      "frequency": 1,
+      "kode_toko": "BH44",
+      "lat": -6.966993468649879,
+      "lng": 107.62651867674663,
+      "priority": "Low Priority",
+      "total_cost": 26500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SUDIMAMPIR",
+      "frequency": 2,
+      "kode_toko": "BH50",
+      "lat": -6.870423500384549,
+      "lng": 107.65948855395261,
+      "priority": "Medium Priority",
+      "total_cost": 52000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "PINGGIRSARI",
+      "frequency": 1,
+      "kode_toko": "BH51",
+      "lat": -6.934802275544874,
+      "lng": 107.62744942874697,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "BRIGHT CITAMAN",
+      "frequency": 1,
+      "kode_toko": "BH53",
+      "lat": -6.949871653194247,
+      "lng": 107.6407314684983,
+      "priority": "Low Priority",
+      "total_cost": 31000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "CUT NYAK DHIEN",
+      "frequency": 1,
+      "kode_toko": "BH55",
+      "lat": -6.889311248854731,
+      "lng": 107.66029225735731,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "RAHAYU KARANGNUNGGAL",
+      "frequency": 2,
+      "kode_toko": "BH57",
+      "lat": -6.927582701847475,
+      "lng": 107.64404144436068,
+      "priority": "Low Priority",
+      "total_cost": 17375000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "BANJARAN",
+      "frequency": 1,
+      "kode_toko": "BH67",
+      "lat": -6.904771248353543,
+      "lng": 107.65276086701289,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "CIHAUR MAJA",
+      "frequency": 1,
+      "kode_toko": "BH71",
+      "lat": -6.9211109316657655,
+      "lng": 107.62121280772202,
+      "priority": "Low Priority",
+      "total_cost": 27375000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "PLUTO RAYA",
+      "frequency": 1,
+      "kode_toko": "BH75",
+      "lat": -6.924392725685935,
+      "lng": 107.5766514835652,
+      "priority": "Low Priority",
+      "total_cost": 31000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "RANCABANGO",
+      "frequency": 1,
+      "kode_toko": "BH76",
+      "lat": -6.898978198043717,
+      "lng": 107.5762741808168,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "MARGAWATI",
+      "frequency": 1,
+      "kode_toko": "BH85",
+      "lat": -6.875170412259917,
+      "lng": 107.61066487240596,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "ANTAPANI KUNINGAN",
+      "frequency": 1,
+      "kode_toko": "BH89",
+      "lat": -6.965421502024985,
+      "lng": 107.62337540698731,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CICADAS MAJALENGKA",
+      "frequency": 2,
+      "kode_toko": "BH92",
+      "lat": -6.920280499865015,
+      "lng": 107.60475118794379,
+      "priority": "Low Priority",
+      "total_cost": 18875000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "TAWANG BANTENG",
+      "frequency": 3,
+      "kode_toko": "BI01",
+      "lat": -6.9197551572673826,
+      "lng": 107.59498814904225,
+      "priority": "High Priority",
+      "total_cost": 76000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "CIHEULANG",
+      "frequency": 1,
+      "kode_toko": "BI03",
+      "lat": -6.950109806540965,
+      "lng": 107.6033281048525,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "CICUKANG",
+      "frequency": 1,
+      "kode_toko": "BI12",
+      "lat": -6.9428207973934555,
+      "lng": 107.57918834995498,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "KAHURIPAN TASIKMALAYA",
+      "frequency": 1,
+      "kode_toko": "BI23",
+      "lat": -6.9291016442235405,
+      "lng": 107.64937865810441,
+      "priority": "Low Priority",
+      "total_cost": 10000000.0,
+      "zone": "Tasikmalaya"
+    },
+    {
+      "NAMA TOKO": "LENGKONG SARI",
+      "frequency": 2,
+      "kode_toko": "BI25",
+      "lat": -6.955807232370919,
+      "lng": 107.63619290382508,
+      "priority": "Low Priority",
+      "total_cost": 20000000.0,
+      "zone": "Tasikmalaya"
+    },
+    {
+      "NAMA TOKO": "CIMANUK BARU",
+      "frequency": 3,
+      "kode_toko": "BI29",
+      "lat": -6.881006051359685,
+      "lng": 107.65365326004931,
+      "priority": "High Priority",
+      "total_cost": 82000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "KARYAMUKTI",
+      "frequency": 2,
+      "kode_toko": "BI32",
+      "lat": -6.957714041712022,
+      "lng": 107.63569958745106,
+      "priority": "Low Priority",
+      "total_cost": 16750000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "CIBALONG BANCEUY",
+      "frequency": 1,
+      "kode_toko": "BI37",
+      "lat": -6.955604516196057,
+      "lng": 107.64416773770053,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "PAJAGALAN",
+      "frequency": 1,
+      "kode_toko": "BI47",
+      "lat": -6.883715720103285,
+      "lng": 107.63451477793771,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "KSB MEKARSARI",
+      "frequency": 1,
+      "kode_toko": "BI51",
+      "lat": -6.917564480205895,
+      "lng": 107.59375225411482,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Sumedang"
+    },
+    {
+      "NAMA TOKO": "JATIPAMOR MAJALENGKA",
+      "frequency": 3,
+      "kode_toko": "BI64",
+      "lat": -6.900215003516254,
+      "lng": 107.64006487246328,
+      "priority": "Medium Priority",
+      "total_cost": 33500000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "SUKAMAJU KALER",
+      "frequency": 1,
+      "kode_toko": "BI67",
+      "lat": -6.930474563661715,
+      "lng": 107.59084787883123,
+      "priority": "Low Priority",
+      "total_cost": 10000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "RANCABUAYA",
+      "frequency": 1,
+      "kode_toko": "BI69",
+      "lat": -6.944920077530032,
+      "lng": 107.64493337973556,
+      "priority": "Medium Priority",
+      "total_cost": 64000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "TRS KIARACONDONG",
+      "frequency": 2,
+      "kode_toko": "BI72",
+      "lat": -6.937097814004253,
+      "lng": 107.61602078248633,
+      "priority": "Medium Priority",
+      "total_cost": 90500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SUKARESIK",
+      "frequency": 1,
+      "kode_toko": "BI75",
+      "lat": -6.908129471886821,
+      "lng": 107.63119881108888,
+      "priority": "Low Priority",
+      "total_cost": 10000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "THE SUITES",
+      "frequency": 1,
+      "kode_toko": "BI96",
+      "lat": -6.887504442415219,
+      "lng": 107.64407934630985,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "TERS PEMBANGUNAN",
+      "frequency": 2,
+      "kode_toko": "BJ07",
+      "lat": -6.873402683100943,
+      "lng": 107.6546369141826,
+      "priority": "Medium Priority",
+      "total_cost": 28000000.0,
+      "zone": "Garut"
+    },
+    {
+      "NAMA TOKO": "SATRIA RAYA [N_STRY]",
+      "frequency": 1,
+      "kode_toko": "N012",
+      "lat": -6.901113331525213,
+      "lng": 107.59757450759645,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SOEKARNO HATTA [N_SKRH]",
+      "frequency": 3,
+      "kode_toko": "N029",
+      "lat": -6.874735083201066,
+      "lng": 107.60607869566341,
+      "priority": "Medium Priority",
+      "total_cost": 42000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "NANJUNG 2 [NNG2]",
+      "frequency": 1,
+      "kode_toko": "N039",
+      "lat": -6.887143884358735,
+      "lng": 107.63280566609956,
+      "priority": "Low Priority",
+      "total_cost": 26500000.0,
+      "zone": "Cimahi"
+    },
+    {
+      "NAMA TOKO": "JL. MUHAMAD [N_MHMD]",
+      "frequency": 1,
+      "kode_toko": "N054",
+      "lat": -6.888110183365844,
+      "lng": 107.64078873069985,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "JL. JURANG (FRC)_ [N_JJRG]",
+      "frequency": 1,
+      "kode_toko": "N057",
+      "lat": -6.9556508692308245,
+      "lng": 107.62118510714532,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIBOGO [N_CBO]",
+      "frequency": 2,
+      "kode_toko": "N081",
+      "lat": -6.89539389084631,
+      "lng": 107.58575934961756,
+      "priority": "Medium Priority",
+      "total_cost": 28875000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "PAK GATOT RAYA [N_PGRY]",
+      "frequency": 1,
+      "kode_toko": "N088",
+      "lat": -6.943992292995902,
+      "lng": 107.5763685257311,
+      "priority": "Low Priority",
+      "total_cost": 14875000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "TAGOG PADALARANG 2 [N_TPG2]",
+      "frequency": 1,
+      "kode_toko": "N149",
+      "lat": -6.955886528168308,
+      "lng": 107.57328767694821,
+      "priority": "Low Priority",
+      "total_cost": 31000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "RAJAMANDALA 2 [N_RJA2]",
+      "frequency": 1,
+      "kode_toko": "N150",
+      "lat": -6.9142098013699025,
+      "lng": 107.57231471376632,
+      "priority": "Low Priority",
+      "total_cost": 27375000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIPAGERAN [N_CPG]",
+      "frequency": 1,
+      "kode_toko": "N152",
+      "lat": -6.943417533781225,
+      "lng": 107.65115452018117,
+      "priority": "Low Priority",
+      "total_cost": 31000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "PAGARSIH 2 (FRC)_ [N_PGH]",
+      "frequency": 3,
+      "kode_toko": "N161",
+      "lat": -6.88470111336647,
+      "lng": 107.61493407882001,
+      "priority": "High Priority",
+      "total_cost": 99000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIWARUGA (FRC)_ [CWRA]",
+      "frequency": 1,
+      "kode_toko": "N177",
+      "lat": -6.913929111418804,
+      "lng": 107.58783473345947,
+      "priority": "Low Priority",
+      "total_cost": 14875000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "GUNUNG BATU 2 (FRC)_ [GNB2]",
+      "frequency": 1,
+      "kode_toko": "N184",
+      "lat": -6.899197033665819,
+      "lng": 107.62913476870439,
+      "priority": "Low Priority",
+      "total_cost": 29000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CILILIN (FRC)_ [CLLN]",
+      "frequency": 3,
+      "kode_toko": "N202",
+      "lat": -6.8851393310766555,
+      "lng": 107.58092085378522,
+      "priority": "Medium Priority",
+      "total_cost": 66000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "UTAMA [UTMA]",
+      "frequency": 1,
+      "kode_toko": "N213",
+      "lat": -6.878769954346263,
+      "lng": 107.64946119857092,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Cimahi"
+    },
+    {
+      "NAMA TOKO": "SUKAJADI [SKJI]",
+      "frequency": 1,
+      "kode_toko": "N241",
+      "lat": -6.893183108928566,
+      "lng": 107.61215867659212,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "ORION [ORN]",
+      "frequency": 1,
+      "kode_toko": "N242",
+      "lat": -6.8970690886401815,
+      "lng": 107.64202208842383,
+      "priority": "Low Priority",
+      "total_cost": 14875000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "NURTANIO [NTO]",
+      "frequency": 2,
+      "kode_toko": "N252",
+      "lat": -6.959483545363321,
+      "lng": 107.61350905012378,
+      "priority": "Medium Priority",
+      "total_cost": 35000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIPATIK 2 (FRC)_ [CPK2]",
+      "frequency": 2,
+      "kode_toko": "N284",
+      "lat": -6.88659289964369,
+      "lng": 107.6354235714238,
+      "priority": "Low Priority",
+      "total_cost": 18000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CITUNJUNG (FRC)_ [CTJG]",
+      "frequency": 4,
+      "kode_toko": "N294",
+      "lat": -6.900189221889905,
+      "lng": 107.61523600640258,
+      "priority": "High Priority",
+      "total_cost": 132500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "NANJUNG 4 BARU (FRC)_ [NJ4B]",
+      "frequency": 1,
+      "kode_toko": "N300",
+      "lat": -6.891091727497077,
+      "lng": 107.57743092447033,
+      "priority": "Low Priority",
+      "total_cost": 31000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SARIMANAH (FRC)_ [SRMH]",
+      "frequency": 1,
+      "kode_toko": "N304",
+      "lat": -6.873659644785115,
+      "lng": 107.61689296484244,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "SPN CISARUA (FRC)_ [SPNC]",
+      "frequency": 1,
+      "kode_toko": "N305",
+      "lat": -6.868931503122601,
+      "lng": 107.57698566039195,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "PHARMINDO (FRC)_ [PHO]",
+      "frequency": 1,
+      "kode_toko": "N307",
+      "lat": -6.90301739470583,
+      "lng": 107.61928929255131,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Cimahi"
+    },
+    {
+      "NAMA TOKO": "CIAWITALI (FRC)_ [CTL]",
+      "frequency": 1,
+      "kode_toko": "N309",
+      "lat": -6.922579955789883,
+      "lng": 107.58763501845587,
+      "priority": "Low Priority",
+      "total_cost": 31000000.0,
+      "zone": "Cimahi"
+    },
+    {
+      "NAMA TOKO": "CIPUNAWAR CIPAGERAN [CRCN]",
+      "frequency": 3,
+      "kode_toko": "N311",
+      "lat": -6.921784787371671,
+      "lng": 107.63269511056434,
+      "priority": "Medium Priority",
+      "total_cost": 68300000.0,
+      "zone": "Cimahi"
+    },
+    {
+      "NAMA TOKO": "KEBON KOPI 2 (FRC)_ [KPI2]",
+      "frequency": 1,
+      "kode_toko": "N313",
+      "lat": -6.896297282897537,
+      "lng": 107.58982886532144,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Cimahi"
+    },
+    {
+      "NAMA TOKO": "SASAK BEUSI [SKBI]",
+      "frequency": 1,
+      "kode_toko": "N314",
+      "lat": -6.956544387344491,
+      "lng": 107.65957383006165,
+      "priority": "Medium Priority",
+      "total_cost": 64000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SIMPANG KERKOF [SGKF]",
+      "frequency": 2,
+      "kode_toko": "N317",
+      "lat": -6.891184090581424,
+      "lng": 107.64043616113311,
+      "priority": "Medium Priority",
+      "total_cost": 35000000.0,
+      "zone": "Cimahi"
+    },
+    {
+      "NAMA TOKO": "CAMPAKA MEKAR [CPKR]",
+      "frequency": 1,
+      "kode_toko": "N321",
+      "lat": -6.915774358583676,
+      "lng": 107.57723302535375,
+      "priority": "Low Priority",
+      "total_cost": 31000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "GUNUNG BATU RAYA [GBRA]",
+      "frequency": 3,
+      "kode_toko": "N328",
+      "lat": -6.867770919160686,
+      "lng": 107.59664746464976,
+      "priority": "Medium Priority",
+      "total_cost": 72000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "NANJUNG CIBODAS [NGCS]",
+      "frequency": 1,
+      "kode_toko": "N347",
+      "lat": -6.925581177280067,
+      "lng": 107.65475620168573,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Cimahi"
+    },
+    {
+      "NAMA TOKO": "SERSAN BAJURI (FRC)_ [SNBR]",
+      "frequency": 1,
+      "kode_toko": "N358",
+      "lat": -6.926790636411898,
+      "lng": 107.62808705102314,
+      "priority": "Low Priority",
+      "total_cost": 26500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "WANGSA NIAGA [WANA]",
+      "frequency": 1,
+      "kode_toko": "N380",
+      "lat": -6.951007290496792,
+      "lng": 107.5982857314399,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIPATAT KB.KALAPA [CTKA]",
+      "frequency": 1,
+      "kode_toko": "N414",
+      "lat": -6.8852061244765395,
+      "lng": 107.66686583103818,
+      "priority": "Low Priority",
+      "total_cost": 31000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "MARGA ASIH (FRC)_ [MGSI]",
+      "frequency": 1,
+      "kode_toko": "N416",
+      "lat": -6.879781314157105,
+      "lng": 107.66625558338043,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "LAGADAR [LGDR]",
+      "frequency": 3,
+      "kode_toko": "N420",
+      "lat": -6.956276506323987,
+      "lng": 107.63969937654183,
+      "priority": "Medium Priority",
+      "total_cost": 42000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "CIRADEN [CRDN]",
+      "frequency": 1,
+      "kode_toko": "N431",
+      "lat": -6.895696407584814,
+      "lng": 107.57949403518687,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "GA MANULANG 55 (FRC)_ [GAMN]",
+      "frequency": 1,
+      "kode_toko": "N433",
+      "lat": -6.880357288399825,
+      "lng": 107.57158206210762,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "RS. DUSTIRA (FRC)_ [DIRA]",
+      "frequency": 3,
+      "kode_toko": "N436",
+      "lat": -6.944730006581294,
+      "lng": 107.63213383927076,
+      "priority": "Medium Priority",
+      "total_cost": 42875000.0,
+      "zone": "Cimahi"
+    },
+    {
+      "NAMA TOKO": "CIHALIWUNG (FRC)_ [CIWU]",
+      "frequency": 2,
+      "kode_toko": "N483",
+      "lat": -6.936765094246875,
+      "lng": 107.59249518527794,
+      "priority": "Medium Priority",
+      "total_cost": 30500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "HAJI GOFUR [HIGR]",
+      "frequency": 1,
+      "kode_toko": "N497",
+      "lat": -6.892300297993577,
+      "lng": 107.58180340001064,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "GRAND HOTEL [GDHL]",
+      "frequency": 1,
+      "kode_toko": "N548",
+      "lat": -6.8814290525100335,
+      "lng": 107.62702088182193,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "RONGGA [RGGA]",
+      "frequency": 2,
+      "kode_toko": "N550",
+      "lat": -6.925854908363938,
+      "lng": 107.62596144439996,
+      "priority": "Medium Priority",
+      "total_cost": 52000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "LANGEN SARI [LNSA]",
+      "frequency": 1,
+      "kode_toko": "N551",
+      "lat": -6.963590872745292,
+      "lng": 107.61446515147975,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIMAREME 2 (FRC)_ [CMRE]",
+      "frequency": 2,
+      "kode_toko": "N557",
+      "lat": -6.871780238878543,
+      "lng": 107.65238483977436,
+      "priority": "Low Priority",
+      "total_cost": 18000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CITAPEN [CTPN]",
+      "frequency": 2,
+      "kode_toko": "N559",
+      "lat": -6.867564998296663,
+      "lng": 107.62694549914039,
+      "priority": "Medium Priority",
+      "total_cost": 80500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CISANGKAN [CSGN]",
+      "frequency": 1,
+      "kode_toko": "N561",
+      "lat": -6.903453221278759,
+      "lng": 107.653855213868,
+      "priority": "Low Priority",
+      "total_cost": 31000000.0,
+      "zone": "Cimahi"
+    },
+    {
+      "NAMA TOKO": "KOPO KATAPANG [KOKG]",
+      "frequency": 2,
+      "kode_toko": "N562",
+      "lat": -6.8998181702849015,
+      "lng": 107.6667004278693,
+      "priority": "Medium Priority",
+      "total_cost": 30500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "RADIO [RDIO]",
+      "frequency": 3,
+      "kode_toko": "N564",
+      "lat": -6.9172789302645725,
+      "lng": 107.61383794141949,
+      "priority": "High Priority",
+      "total_cost": 83000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "TERMINAL CIMAREME (FRC)_ [TLCE]",
+      "frequency": 2,
+      "kode_toko": "N569",
+      "lat": -6.915545718649015,
+      "lng": 107.58124509783794,
+      "priority": "Medium Priority",
+      "total_cost": 78000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "TKI 3 BLOK-F [TKBF]",
+      "frequency": 1,
+      "kode_toko": "N575",
+      "lat": -6.887209642130944,
+      "lng": 107.61486112144583,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "BURUJUL [BRJL]",
+      "frequency": 1,
+      "kode_toko": "N587",
+      "lat": -6.912285819451331,
+      "lng": 107.5765730081883,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIBURUY KP. ANDIR [CYAR]",
+      "frequency": 1,
+      "kode_toko": "N595",
+      "lat": -6.8916120831474625,
+      "lng": 107.64483994923404,
+      "priority": "Low Priority",
+      "total_cost": 19000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CILAME 2 [CLE2]",
+      "frequency": 3,
+      "kode_toko": "N596",
+      "lat": -6.9666361932633665,
+      "lng": 107.66181749294498,
+      "priority": "High Priority",
+      "total_cost": 122000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CITEUREUP 2 [CTRU]",
+      "frequency": 1,
+      "kode_toko": "N597",
+      "lat": -6.914521338425826,
+      "lng": 107.66186386369807,
+      "priority": "Low Priority",
+      "total_cost": 16500000.0,
+      "zone": "Cimahi"
+    },
+    {
+      "NAMA TOKO": "GALUDRA [GLDR]",
+      "frequency": 1,
+      "kode_toko": "N599",
+      "lat": -6.913474828209065,
+      "lng": 107.61931308141929,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIKAMUNING [CKMG]",
+      "frequency": 1,
+      "kode_toko": "N605",
+      "lat": -6.950191118550122,
+      "lng": 107.64684437706275,
+      "priority": "Low Priority",
+      "total_cost": 31000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "GANDOK [GNDK]",
+      "frequency": 4,
+      "kode_toko": "N606",
+      "lat": -6.88528619577331,
+      "lng": 107.59911228454479,
+      "priority": "High Priority",
+      "total_cost": 130000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SOMAWINATA 2 [SWN2]",
+      "frequency": 3,
+      "kode_toko": "N612",
+      "lat": -6.949662495164925,
+      "lng": 107.63465966869403,
+      "priority": "Medium Priority",
+      "total_cost": 68500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "NANGGELENG (FRC)_ [NGLE]",
+      "frequency": 3,
+      "kode_toko": "N613",
+      "lat": -6.911489743776045,
+      "lng": 107.57876780014541,
+      "priority": "Medium Priority",
+      "total_cost": 62000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIBURUY 249 [CIUY]",
+      "frequency": 1,
+      "kode_toko": "N619",
+      "lat": -6.966475742663647,
+      "lng": 107.60005882361688,
+      "priority": "Low Priority",
+      "total_cost": 31000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIJERAH 2 (FRC)_ [CJH2]",
+      "frequency": 1,
+      "kode_toko": "N628",
+      "lat": -6.8770299687243455,
+      "lng": 107.65577417077186,
+      "priority": "Low Priority",
+      "total_cost": 38000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "KANTIN DUSTIRA (FRC)_ [KNDR]",
+      "frequency": 3,
+      "kode_toko": "N630",
+      "lat": -6.883780650776896,
+      "lng": 107.58135307429542,
+      "priority": "Medium Priority",
+      "total_cost": 62375000.0,
+      "zone": "Cimahi"
+    },
+    {
+      "NAMA TOKO": "GARDUJATI 34 [GRDI]",
+      "frequency": 2,
+      "kode_toko": "N631",
+      "lat": -6.882913242658131,
+      "lng": 107.59924863271868,
+      "priority": "Medium Priority",
+      "total_cost": 52000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "JAYAGIRI [JYGR]",
+      "frequency": 2,
+      "kode_toko": "N635",
+      "lat": -6.956216471079075,
+      "lng": 107.58043797104403,
+      "priority": "Medium Priority",
+      "total_cost": 28000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "PURI CIPAGERAN H [PCGH]",
+      "frequency": 1,
+      "kode_toko": "N638",
+      "lat": -6.893153835141871,
+      "lng": 107.65667038401507,
+      "priority": "Low Priority",
+      "total_cost": 10000000.0,
+      "zone": "Cimahi"
+    },
+    {
+      "NAMA TOKO": "KIHAPIT [KHPT]",
+      "frequency": 2,
+      "kode_toko": "N640",
+      "lat": -6.941464464704529,
+      "lng": 107.61156107989059,
+      "priority": "Medium Priority",
+      "total_cost": 35000000.0,
+      "zone": "Cimahi"
+    },
+    {
+      "NAMA TOKO": "SADARMANAH 2 [SDMH]",
+      "frequency": 2,
+      "kode_toko": "N645",
+      "lat": -6.93693006342564,
+      "lng": 107.57961287591745,
+      "priority": "Medium Priority",
+      "total_cost": 39875000.0,
+      "zone": "Cimahi"
+    },
+    {
+      "NAMA TOKO": "WARUNG PANJANG [WRPJ]",
+      "frequency": 5,
+      "kode_toko": "N649",
+      "lat": -6.9603291752940555,
+      "lng": 107.57216337897391,
+      "priority": "High Priority",
+      "total_cost": 80000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "KEBON MANGGU [KNMU]",
+      "frequency": 2,
+      "kode_toko": "N678",
+      "lat": -6.930969089508573,
+      "lng": 107.65628325687429,
+      "priority": "Medium Priority",
+      "total_cost": 45000000.0,
+      "zone": "Cimahi"
+    },
+    {
+      "NAMA TOKO": "PANARIS [PNRS]",
+      "frequency": 2,
+      "kode_toko": "N679",
+      "lat": -6.901122637528026,
+      "lng": 107.58723734294675,
+      "priority": "Medium Priority",
+      "total_cost": 52000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIHANJUANG 18 [CHJG]",
+      "frequency": 2,
+      "kode_toko": "N689",
+      "lat": -6.899028034246219,
+      "lng": 107.5999595196727,
+      "priority": "Medium Priority",
+      "total_cost": 38000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "TIPAR BATUJAJAR [TRBR]",
+      "frequency": 1,
+      "kode_toko": "N695",
+      "lat": -6.873869336529307,
+      "lng": 107.65310154412654,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SINDANGKERTA [SGKA]",
+      "frequency": 1,
+      "kode_toko": "N696",
+      "lat": -6.951937323695025,
+      "lng": 107.65860679562859,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIBOGO 2 [CIBO]",
+      "frequency": 1,
+      "kode_toko": "N699",
+      "lat": -6.955042428074301,
+      "lng": 107.64513012375872,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "MARIBAYA 2 [MRBY]",
+      "frequency": 1,
+      "kode_toko": "N700",
+      "lat": -6.916993177178663,
+      "lng": 107.571178036968,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CINTA KARYA [CTKR]",
+      "frequency": 3,
+      "kode_toko": "N707",
+      "lat": -6.920970096169669,
+      "lng": 107.63611419289347,
+      "priority": "Medium Priority",
+      "total_cost": 56000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SESKO AU LEMBANG [SKAL]",
+      "frequency": 1,
+      "kode_toko": "N708",
+      "lat": -6.901163997417847,
+      "lng": 107.62350871478223,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SUKAGALIH 2 (FRC)_ [SKG2]",
+      "frequency": 1,
+      "kode_toko": "N709",
+      "lat": -6.932767130253023,
+      "lng": 107.61866528245315,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIBURUY SITUTENGAH [CYST]",
+      "frequency": 2,
+      "kode_toko": "N711",
+      "lat": -6.947528706460963,
+      "lng": 107.57365298316493,
+      "priority": "Low Priority",
+      "total_cost": 16500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIPATIK [CPTK]",
+      "frequency": 1,
+      "kode_toko": "N713",
+      "lat": -6.959096307513277,
+      "lng": 107.62113048199569,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "RANCA PANGGUNG 2 [RAPG]",
+      "frequency": 1,
+      "kode_toko": "N723",
+      "lat": -6.9265647888647575,
+      "lng": 107.60909302987042,
+      "priority": "Low Priority",
+      "total_cost": 10000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIPATIK BABAKAN [CIBN]",
+      "frequency": 3,
+      "kode_toko": "N729",
+      "lat": -6.891379202399419,
+      "lng": 107.63726321362296,
+      "priority": "High Priority",
+      "total_cost": 89000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "PAJAJARAN 87 [PN87]",
+      "frequency": 1,
+      "kode_toko": "N739",
+      "lat": -6.898349515184498,
+      "lng": 107.61948731214672,
+      "priority": "Low Priority",
+      "total_cost": 31000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "PAMEUNGPEUK CISARUA [PCSA]",
+      "frequency": 1,
+      "kode_toko": "N743",
+      "lat": -6.8992176124720554,
+      "lng": 107.58951059561042,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "PAKUHAJI [PKHJ]",
+      "frequency": 1,
+      "kode_toko": "N747",
+      "lat": -6.892740348712104,
+      "lng": 107.60493614421681,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "PASIR JAMBU 3 [PRJB]",
+      "frequency": 1,
+      "kode_toko": "N748",
+      "lat": -6.940531733256589,
+      "lng": 107.63035876658864,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "PAMACEULAN [PMCN]",
+      "frequency": 1,
+      "kode_toko": "N754",
+      "lat": -6.889717039209891,
+      "lng": 107.60717591230991,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "MANAPA CILILIN [MACN]",
+      "frequency": 2,
+      "kode_toko": "N757",
+      "lat": -6.951117177673904,
+      "lng": 107.66854654003444,
+      "priority": "Medium Priority",
+      "total_cost": 55300000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CITATAH PUMARIN (FRC)_[CAPI]",
+      "frequency": 1,
+      "kode_toko": "N760",
+      "lat": -6.927908282772058,
+      "lng": 107.66357734751828,
+      "priority": "Low Priority",
+      "total_cost": 26500000.0,
+      "zone": "Cimahi"
+    },
+    {
+      "NAMA TOKO": "MEKARWANGI SARIWANGI [MISI]",
+      "frequency": 1,
+      "kode_toko": "N767",
+      "lat": -6.874514018823561,
+      "lng": 107.64599937667346,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SUDIRMAN 01 (FRC)_ [SDMN]",
+      "frequency": 1,
+      "kode_toko": "N770",
+      "lat": -6.90880649720432,
+      "lng": 107.57541911434332,
+      "priority": "Low Priority",
+      "total_cost": 31000000.0,
+      "zone": "Cimahi"
+    },
+    {
+      "NAMA TOKO": "GERLONG ISOLA (FRC)_[GLIL]",
+      "frequency": 1,
+      "kode_toko": "N773",
+      "lat": -6.961153926049019,
+      "lng": 107.62904858738457,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "WARUGA JAYA BARU (FRC)_[WJBR]",
+      "frequency": 2,
+      "kode_toko": "N774",
+      "lat": -6.869926313830995,
+      "lng": 107.61575867681097,
+      "priority": "Medium Priority",
+      "total_cost": 41500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "GUNUNG BATU BARU (FRC)_[GBBU]",
+      "frequency": 2,
+      "kode_toko": "N775",
+      "lat": -6.914518149569035,
+      "lng": 107.59914809967368,
+      "priority": "Medium Priority",
+      "total_cost": 53000000.0,
+      "zone": "Cimahi"
+    },
+    {
+      "NAMA TOKO": "BOJONG CITAPEN (BGCN]",
+      "frequency": 1,
+      "kode_toko": "N777",
+      "lat": -6.959822470512409,
+      "lng": 107.65555497117846,
+      "priority": "Low Priority",
+      "total_cost": 31000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CAGAK SUKAMULYA [CKSH]",
+      "frequency": 2,
+      "kode_toko": "N779",
+      "lat": -6.87174257613783,
+      "lng": 107.61689659357889,
+      "priority": "Medium Priority",
+      "total_cost": 52000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SPBU TERS PASIR KOJA (FRC)_[SSPA]",
+      "frequency": 1,
+      "kode_toko": "N780",
+      "lat": -6.874046970539768,
+      "lng": 107.64735185319454,
+      "priority": "Low Priority",
+      "total_cost": 10000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIJAMBU CIPONGKOR [CUCR]",
+      "frequency": 1,
+      "kode_toko": "N782",
+      "lat": -6.8903263031574,
+      "lng": 107.631673419881,
+      "priority": "Medium Priority",
+      "total_cost": 64000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIKUDA SAGULING [CDSG]",
+      "frequency": 1,
+      "kode_toko": "N783",
+      "lat": -6.9182837740164915,
+      "lng": 107.65891182855205,
+      "priority": "Low Priority",
+      "total_cost": 31000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "PASIR JAMBU 2 (FRC)_ [PJB2]",
+      "frequency": 3,
+      "kode_toko": "N789",
+      "lat": -6.934052254995789,
+      "lng": 107.6497555188986,
+      "priority": "Medium Priority",
+      "total_cost": 34500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "TKI 3 C8 (FRC)_[TKIC]",
+      "frequency": 2,
+      "kode_toko": "N794",
+      "lat": -6.886398672828738,
+      "lng": 107.66079876952513,
+      "priority": "Medium Priority",
+      "total_cost": 58000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "BATUJAJAR 2 [BJJ2]",
+      "frequency": 1,
+      "kode_toko": "N795",
+      "lat": -6.900212283546138,
+      "lng": 107.58818919308666,
+      "priority": "Low Priority",
+      "total_cost": 24000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "KSB IBU GANIRAH (FRC)_[KIGH]",
+      "frequency": 1,
+      "kode_toko": "N798",
+      "lat": -6.890022896036362,
+      "lng": 107.64861858641457,
+      "priority": "Low Priority",
+      "total_cost": 26500000.0,
+      "zone": "Cimahi"
+    },
+    {
+      "NAMA TOKO": "CIWIDEY 3 [CIEY]",
+      "frequency": 2,
+      "kode_toko": "N799",
+      "lat": -6.948260250155972,
+      "lng": 107.6482605792642,
+      "priority": "Medium Priority",
+      "total_cost": 78000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "GADING TUTUKA 2 [GGTA]",
+      "frequency": 1,
+      "kode_toko": "N801",
+      "lat": -6.961784030380798,
+      "lng": 107.5947411543828,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SADANG 21 [SG21]",
+      "frequency": 1,
+      "kode_toko": "N802",
+      "lat": -6.885073665739427,
+      "lng": 107.59593154548509,
+      "priority": "Medium Priority",
+      "total_cost": 72000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "AL FATHU [ALFU]",
+      "frequency": 2,
+      "kode_toko": "N804",
+      "lat": -6.882973821988525,
+      "lng": 107.62270527176246,
+      "priority": "Medium Priority",
+      "total_cost": 28000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SUKAMENAK SAYATI (FRC)_[SKST]",
+      "frequency": 1,
+      "kode_toko": "N806",
+      "lat": -6.890829337199282,
+      "lng": 107.6059197941411,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "RENDEH BARU (FRC)_[RHBU]",
+      "frequency": 1,
+      "kode_toko": "N809",
+      "lat": -6.869007702378403,
+      "lng": 107.60838922130067,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "KP. MELAYU [KPYU]",
+      "frequency": 1,
+      "kode_toko": "N812",
+      "lat": -6.922876758253322,
+      "lng": 107.6090339714434,
+      "priority": "Low Priority",
+      "total_cost": 16500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SPBU JALAK HARUPAT [SJHT]",
+      "frequency": 2,
+      "kode_toko": "N819",
+      "lat": -6.931166552699007,
+      "lng": 107.60938829940842,
+      "priority": "Low Priority",
+      "total_cost": 18000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "TATAR PITALOKA (FRC)_[TRPK]",
+      "frequency": 5,
+      "kode_toko": "N820",
+      "lat": -6.896634932614368,
+      "lng": 107.6210787658114,
+      "priority": "High Priority",
+      "total_cost": 119500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "PASKAL SQUARE D63 [PSED]",
+      "frequency": 2,
+      "kode_toko": "N828",
+      "lat": -6.903593036218003,
+      "lng": 107.62359201417746,
+      "priority": "Medium Priority",
+      "total_cost": 45000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "BABAKAN SONDARI (FRC)_[BNSI]",
+      "frequency": 1,
+      "kode_toko": "N829",
+      "lat": -6.931864281284941,
+      "lng": 107.5815660334596,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CILISUNG [CLSG]",
+      "frequency": 2,
+      "kode_toko": "N830",
+      "lat": -6.883483363575186,
+      "lng": 107.64242114992568,
+      "priority": "Medium Priority",
+      "total_cost": 78000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "MANGLID [MNLD]",
+      "frequency": 2,
+      "kode_toko": "N831",
+      "lat": -6.902051555358823,
+      "lng": 107.60875934962593,
+      "priority": "Medium Priority",
+      "total_cost": 62000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "KEBON KOPI 4 (FRC)_[KKI4]",
+      "frequency": 1,
+      "kode_toko": "N834",
+      "lat": -6.897321643486759,
+      "lng": 107.65264054240565,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Cimahi"
+    },
+    {
+      "NAMA TOKO": "SADANG RAHAYU [SGRU]",
+      "frequency": 5,
+      "kode_toko": "N836",
+      "lat": -6.868959546186843,
+      "lng": 107.58308289141159,
+      "priority": "High Priority",
+      "total_cost": 100000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "KSO+CIBOLERANG (FRC)_[KOCG]",
+      "frequency": 2,
+      "kode_toko": "N839",
+      "lat": -6.890882683798341,
+      "lng": 107.63617215688069,
+      "priority": "Medium Priority",
+      "total_cost": 95000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SPBU KERKOFF (FRC)_[SUKF]",
+      "frequency": 1,
+      "kode_toko": "N842",
+      "lat": -6.933161260008366,
+      "lng": 107.58744271334157,
+      "priority": "Low Priority",
+      "total_cost": 16500000.0,
+      "zone": "Cimahi"
+    },
+    {
+      "NAMA TOKO": "CIGONDEWAH BARU (FRC)_[CHBU]",
+      "frequency": 2,
+      "kode_toko": "N844",
+      "lat": -6.948310927375337,
+      "lng": 107.6495633867009,
+      "priority": "Low Priority",
+      "total_cost": 16500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "RATNA NIAGA (RNNA)",
+      "frequency": 1,
+      "kode_toko": "N847",
+      "lat": -6.913785484212868,
+      "lng": 107.58847116946,
+      "priority": "Low Priority",
+      "total_cost": 26500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "KOPO SAYATI 345B [KSIB]",
+      "frequency": 2,
+      "kode_toko": "N848",
+      "lat": -6.9001831511807765,
+      "lng": 107.66382172195699,
+      "priority": "Medium Priority",
+      "total_cost": 78000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "JINGGA NIAGA [JANG]",
+      "frequency": 1,
+      "kode_toko": "N852",
+      "lat": -6.885172844622981,
+      "lng": 107.61118771262728,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "BARANANGSIANG BARU (FRC)_[BNBR]",
+      "frequency": 1,
+      "kode_toko": "N856",
+      "lat": -6.886261588908058,
+      "lng": 107.654361993825,
+      "priority": "Low Priority",
+      "total_cost": 34000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SINDANG SIRNA (FRC)_[SGSA]",
+      "frequency": 1,
+      "kode_toko": "N858",
+      "lat": -6.91565779327367,
+      "lng": 107.64048867014397,
+      "priority": "Low Priority",
+      "total_cost": 14875000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SPBU RAJAMANDALA (FRC)_[SURL]",
+      "frequency": 1,
+      "kode_toko": "N859",
+      "lat": -6.906341065823859,
+      "lng": 107.59560594605595,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "LEUWIGAJAH (FRC)_[LWGJ]",
+      "frequency": 2,
+      "kode_toko": "N861",
+      "lat": -6.879799370825102,
+      "lng": 107.63614510474186,
+      "priority": "Medium Priority",
+      "total_cost": 52000000.0,
+      "zone": "Cimahi"
+    },
+    {
+      "NAMA TOKO": "TKI 3 BLOK F 20 [TBKF]",
+      "frequency": 2,
+      "kode_toko": "N862",
+      "lat": -6.900197807100511,
+      "lng": 107.63786632354912,
+      "priority": "Medium Priority",
+      "total_cost": 60500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIROYOM BARU (FRC)_[CMBU]",
+      "frequency": 2,
+      "kode_toko": "N866",
+      "lat": -6.942357488048292,
+      "lng": 107.61045096591214,
+      "priority": "Medium Priority",
+      "total_cost": 78000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "BOJONG KUNCI [BJKI]",
+      "frequency": 1,
+      "kode_toko": "N867",
+      "lat": -6.954196898503022,
+      "lng": 107.61179745587836,
+      "priority": "Low Priority",
+      "total_cost": 34000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "TERS. KOPO 492 [TRKP]",
+      "frequency": 1,
+      "kode_toko": "N873",
+      "lat": -6.877273575794216,
+      "lng": 107.64810168673235,
+      "priority": "Low Priority",
+      "total_cost": 14875000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "TERS. SUTAMI (FRC)_[TSTM]",
+      "frequency": 1,
+      "kode_toko": "N875",
+      "lat": -6.868727833453242,
+      "lng": 107.60105885093402,
+      "priority": "Low Priority",
+      "total_cost": 10000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "KALASAN BARU (FRC)_[KLNU]",
+      "frequency": 3,
+      "kode_toko": "N876",
+      "lat": -6.948967634275976,
+      "lng": 107.63421430751684,
+      "priority": "Medium Priority",
+      "total_cost": 56000000.0,
+      "zone": "Cimahi"
+    },
+    {
+      "NAMA TOKO": "KP SELACAU [KSLU]",
+      "frequency": 1,
+      "kode_toko": "N878",
+      "lat": -6.924438845349393,
+      "lng": 107.58280522799117,
+      "priority": "Low Priority",
+      "total_cost": 26500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CILAME CIBAGA [CECA]",
+      "frequency": 1,
+      "kode_toko": "N880",
+      "lat": -6.952991010364557,
+      "lng": 107.60494559144976,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "RSUD OTISTA SOREANG (FRC)_[ROSG]",
+      "frequency": 2,
+      "kode_toko": "N884",
+      "lat": -6.91283067224038,
+      "lng": 107.61392140505497,
+      "priority": "Medium Priority",
+      "total_cost": 40500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "KOMPLEK KOPO PERMAI [KKPI]",
+      "frequency": 1,
+      "kode_toko": "N887",
+      "lat": -6.9208073941753625,
+      "lng": 107.66066200826457,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CILAME CIBATU (FRC) [CECT]",
+      "frequency": 1,
+      "kode_toko": "N895",
+      "lat": -6.950916367575622,
+      "lng": 107.63406420882555,
+      "priority": "Medium Priority",
+      "total_cost": 64000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "KATUMIRI (FRC)_ [KTMR]",
+      "frequency": 1,
+      "kode_toko": "N896",
+      "lat": -6.964412136331294,
+      "lng": 107.58755094164276,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CILUNCAT [CLCT]",
+      "frequency": 1,
+      "kode_toko": "N898",
+      "lat": -6.904594304436956,
+      "lng": 107.62714515422198,
+      "priority": "Low Priority",
+      "total_cost": 31000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SUKARASA (FRC)_[SKRS]",
+      "frequency": 1,
+      "kode_toko": "N900",
+      "lat": -6.9476630691255625,
+      "lng": 107.6270688860067,
+      "priority": "Medium Priority",
+      "total_cost": 64000000.0,
+      "zone": "Cimahi"
+    },
+    {
+      "NAMA TOKO": "BATUJAJAR TIMUR BARU (FRC)_[BRTB]",
+      "frequency": 5,
+      "kode_toko": "N901",
+      "lat": -6.898144664183414,
+      "lng": 107.57715027822331,
+      "priority": "High Priority",
+      "total_cost": 67500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "POJOK TENGAH [PKTH]",
+      "frequency": 1,
+      "kode_toko": "N902",
+      "lat": -6.917604042730102,
+      "lng": 107.6601224773653,
+      "priority": "Low Priority",
+      "total_cost": 34000000.0,
+      "zone": "Cimahi"
+    },
+    {
+      "NAMA TOKO": "SARIJADI BARU [SJBU]",
+      "frequency": 1,
+      "kode_toko": "N905",
+      "lat": -6.961671089331853,
+      "lng": 107.62459986631599,
+      "priority": "Low Priority",
+      "total_cost": 39000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "JAYAGIRI BARU [JIBA]",
+      "frequency": 2,
+      "kode_toko": "N908",
+      "lat": -6.9573017226828355,
+      "lng": 107.58582566496675,
+      "priority": "Medium Priority",
+      "total_cost": 60500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "DT CIHAMPELAS [DTCS]",
+      "frequency": 1,
+      "kode_toko": "N909",
+      "lat": -6.882122660124126,
+      "lng": 107.5842401401092,
+      "priority": "Low Priority",
+      "total_cost": 21300000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "DJUNJUNAN (FRC)-[DJNN]",
+      "frequency": 1,
+      "kode_toko": "N910",
+      "lat": -6.879458403075605,
+      "lng": 107.62480754563201,
+      "priority": "Low Priority",
+      "total_cost": 14875000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "GAJAH MEKAR BARU [GMBU]",
+      "frequency": 1,
+      "kode_toko": "N914",
+      "lat": -6.943826755009125,
+      "lng": 107.60853631942358,
+      "priority": "Medium Priority",
+      "total_cost": 64000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIBOLERANG BARU [CGBU]",
+      "frequency": 1,
+      "kode_toko": "N915",
+      "lat": -6.938393434255424,
+      "lng": 107.62197484526942,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "BALADEWA [BADW]",
+      "frequency": 2,
+      "kode_toko": "N919",
+      "lat": -6.943562001869661,
+      "lng": 107.63232863765175,
+      "priority": "Low Priority",
+      "total_cost": 16500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "KUTAWARINGIN [KWRN]",
+      "frequency": 1,
+      "kode_toko": "N922",
+      "lat": -6.946904692885556,
+      "lng": 107.57197778824299,
+      "priority": "Low Priority",
+      "total_cost": 39000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "PRIMA AMERTA (FRC)_[PAAA]",
+      "frequency": 2,
+      "kode_toko": "N923",
+      "lat": -6.872746360274739,
+      "lng": 107.63899135277326,
+      "priority": "Medium Priority",
+      "total_cost": 30500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "BOJONG MEKAR (FRC)_[BGMR]",
+      "frequency": 2,
+      "kode_toko": "N924",
+      "lat": -6.936599707004763,
+      "lng": 107.58797052533518,
+      "priority": "Low Priority",
+      "total_cost": 18000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CARINGIN [CNRN]",
+      "frequency": 2,
+      "kode_toko": "N926",
+      "lat": -6.940001793434389,
+      "lng": 107.64961837872252,
+      "priority": "Medium Priority",
+      "total_cost": 48500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "BRIGHT AMIR MACHMUD (FRC)_[BARD]",
+      "frequency": 3,
+      "kode_toko": "N930",
+      "lat": -6.895023510494177,
+      "lng": 107.61564374227379,
+      "priority": "Medium Priority",
+      "total_cost": 53875000.0,
+      "zone": "Cimahi"
+    },
+    {
+      "NAMA TOKO": "CITALEM (FRC)_[CLEM]",
+      "frequency": 3,
+      "kode_toko": "N932",
+      "lat": -6.8863511698893,
+      "lng": 107.59294044962903,
+      "priority": "Medium Priority",
+      "total_cost": 72000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SURYANI INDAH (FRC)_[SIAH]",
+      "frequency": 1,
+      "kode_toko": "N933",
+      "lat": -6.932359292396801,
+      "lng": 107.64651980757922,
+      "priority": "Low Priority",
+      "total_cost": 10000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIPELAH [CPLH]",
+      "frequency": 2,
+      "kode_toko": "N936",
+      "lat": -6.917388026752026,
+      "lng": 107.6260434746263,
+      "priority": "Medium Priority",
+      "total_cost": 85500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "GANDASARI ASRI (FRC)_[GIAI]",
+      "frequency": 1,
+      "kode_toko": "N942",
+      "lat": -6.877402484442119,
+      "lng": 107.6523149880656,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "RAYA CIBALIGO (FRC)_[RYCO]",
+      "frequency": 1,
+      "kode_toko": "N943",
+      "lat": -6.913004952445635,
+      "lng": 107.6101826636321,
+      "priority": "Low Priority",
+      "total_cost": 17000000.0,
+      "zone": "Cimahi"
+    },
+    {
+      "NAMA TOKO": "SUDIRMAN BARU [SDRU]",
+      "frequency": 1,
+      "kode_toko": "N944",
+      "lat": -6.946062403674688,
+      "lng": 107.62431803190805,
+      "priority": "Low Priority",
+      "total_cost": 17000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIPTAHARJA CIPATAT [CACT]",
+      "frequency": 1,
+      "kode_toko": "N952",
+      "lat": -6.947134505119299,
+      "lng": 107.65087472762153,
+      "priority": "Low Priority",
+      "total_cost": 17375000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "ASTANA ANYAR BARU [ARBU]",
+      "frequency": 1,
+      "kode_toko": "N953",
+      "lat": -6.9303682482017654,
+      "lng": 107.62539156539053,
+      "priority": "Low Priority",
+      "total_cost": 26500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CITAPEN BARU [CNBU]",
+      "frequency": 1,
+      "kode_toko": "N955",
+      "lat": -6.891834538166477,
+      "lng": 107.62681011236614,
+      "priority": "Low Priority",
+      "total_cost": 31000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SADARMANAH BARU [SHBR]",
+      "frequency": 1,
+      "kode_toko": "N956",
+      "lat": -6.941925533415732,
+      "lng": 107.62395484542247,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Cimahi"
+    },
+    {
+      "NAMA TOKO": "KOLMAS CISARUA [KSCU]",
+      "frequency": 1,
+      "kode_toko": "N957",
+      "lat": -6.921473590739611,
+      "lng": 107.56922388443213,
+      "priority": "Low Priority",
+      "total_cost": 27375000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "RANCAENGANG (FRC)_[RCAG]",
+      "frequency": 2,
+      "kode_toko": "N962",
+      "lat": -6.879730011674991,
+      "lng": 107.6426767022103,
+      "priority": "Medium Priority",
+      "total_cost": 28875000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIPONGKOR (FRC)_ [CKOR]",
+      "frequency": 2,
+      "kode_toko": "N965",
+      "lat": -6.90575964537922,
+      "lng": 107.59347415496292,
+      "priority": "Medium Priority",
+      "total_cost": 48000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "BOJONG HALEUANG [BGHG]",
+      "frequency": 1,
+      "kode_toko": "N966",
+      "lat": -6.906016062799757,
+      "lng": 107.570651755654,
+      "priority": "Low Priority",
+      "total_cost": 26500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SUDIRMAN TOWNHOUSE [SNTE]",
+      "frequency": 1,
+      "kode_toko": "N978",
+      "lat": -6.904350923436035,
+      "lng": 107.63887481332165,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "PANGAUBAN (FRC)_[PNGB ]",
+      "frequency": 1,
+      "kode_toko": "N992",
+      "lat": -6.9171650607753445,
+      "lng": 107.6005559941024,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "LEMBANG JAYAGIRI [LBJY]",
+      "frequency": 1,
+      "kode_toko": "N996",
+      "lat": -6.881499765887138,
+      "lng": 107.61036028153703,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "LEMBANG 187 [LMBA]",
+      "frequency": 1,
+      "kode_toko": "N997",
+      "lat": -6.898417762889473,
+      "lng": 107.60423771444606,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "JELEGONGKUTAWARINGIN (FRC)_[JEKU]",
+      "frequency": 1,
+      "kode_toko": "N998",
+      "lat": -6.933613698449324,
+      "lng": 107.64741091444466,
+      "priority": "Low Priority",
+      "total_cost": 26500000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "BRIGHT KATAPANG (FRC)_[BRKA]",
+      "frequency": 3,
+      "kode_toko": "N999",
+      "lat": -6.945059876235705,
+      "lng": 107.64602266018952,
+      "priority": "High Priority",
+      "total_cost": 122000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CIPONGPORANG (FRC)_[CNPR]",
+      "frequency": 1,
+      "kode_toko": "NA05",
+      "lat": -6.879429999438734,
+      "lng": 107.60037371269766,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "POJOK CIMAHI BARU [POCI]",
+      "frequency": 1,
+      "kode_toko": "NA06",
+      "lat": -6.878937959515804,
+      "lng": 107.62100314738466,
+      "priority": "Low Priority",
+      "total_cost": 31000000.0,
+      "zone": "Cimahi"
+    },
+    {
+      "NAMA TOKO": "PAGARSIH 196 [PARS]",
+      "frequency": 1,
+      "kode_toko": "NA12",
+      "lat": -6.893412997811552,
+      "lng": 107.66308040680096,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SETIABUDI (FRC)_[SEBU]",
+      "frequency": 1,
+      "kode_toko": "NA19",
+      "lat": -6.897154293137012,
+      "lng": 107.60727084024477,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "RAJAMANDALA KAUM [RAKA]",
+      "frequency": 1,
+      "kode_toko": "NA20",
+      "lat": -6.875261989539356,
+      "lng": 107.58503326865223,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SOMAWINATA (FRC)_[SOMA]",
+      "frequency": 1,
+      "kode_toko": "NA27",
+      "lat": -6.885374437693148,
+      "lng": 107.64133056567215,
+      "priority": "Low Priority",
+      "total_cost": 31000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "TERUSAN CIMAHI [TECA]",
+      "frequency": 1,
+      "kode_toko": "NA31",
+      "lat": -6.880174303628271,
+      "lng": 107.5719568105931,
+      "priority": "Low Priority",
+      "total_cost": 29000000.0,
+      "zone": "Cimahi"
+    },
+    {
+      "NAMA TOKO": "CIBOGO LEMBANG (FRC)_[BOGO]",
+      "frequency": 1,
+      "kode_toko": "NA35",
+      "lat": -6.922573736812854,
+      "lng": 107.6176053431607,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "KOLMAS 21 [KOMS]",
+      "frequency": 1,
+      "kode_toko": "NA41",
+      "lat": -6.872657490561525,
+      "lng": 107.66467751405553,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "CISAAT SUKAWANGI [CSSI ]",
+      "frequency": 1,
+      "kode_toko": "NA43",
+      "lat": -6.947062458060845,
+      "lng": 107.65682789493196,
+      "priority": "Low Priority",
+      "total_cost": 27375000.0,
+      "zone": "Bandung Raya"
+    },
+    {
+      "NAMA TOKO": "SAWALA",
+      "frequency": 3,
+      "kode_toko": "V073",
+      "lat": -6.929847651580015,
+      "lng": 107.60697285741334,
+      "priority": "Medium Priority",
+      "total_cost": 32000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "PASAR LAWAS",
+      "frequency": 1,
+      "kode_toko": "V077",
+      "lat": -6.965383914546485,
+      "lng": 107.59449696568785,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "MAJALENGKA KULON",
+      "frequency": 1,
+      "kode_toko": "V097",
+      "lat": -6.874130510472387,
+      "lng": 107.60907320051051,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "CIKIJING BARU",
+      "frequency": 6,
+      "kode_toko": "V155",
+      "lat": -6.963419803532011,
+      "lng": 107.61634189663404,
+      "priority": "High Priority",
+      "total_cost": 78000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "CIKIJING 2",
+      "frequency": 2,
+      "kode_toko": "V158",
+      "lat": -6.875618360511989,
+      "lng": 107.62626834508762,
+      "priority": "Medium Priority",
+      "total_cost": 52000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "KARTINI MAJALENGKA",
+      "frequency": 2,
+      "kode_toko": "V518",
+      "lat": -6.878326721670258,
+      "lng": 107.63647932616098,
+      "priority": "Low Priority",
+      "total_cost": 12500000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "TALAGA WETAN",
+      "frequency": 1,
+      "kode_toko": "V519",
+      "lat": -6.96146632203149,
+      "lng": 107.64774207494091,
+      "priority": "Low Priority",
+      "total_cost": 31000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "KERTAJATI",
+      "frequency": 1,
+      "kode_toko": "V581",
+      "lat": -6.8685757125155105,
+      "lng": 107.61079049548195,
+      "priority": "Low Priority",
+      "total_cost": 31000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "MAJA UTARA BARU FRC",
+      "frequency": 2,
+      "kode_toko": "V730",
+      "lat": -6.9558667178252955,
+      "lng": 107.65388982510761,
+      "priority": "Medium Priority",
+      "total_cost": 66500000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "TALAGA",
+      "frequency": 3,
+      "kode_toko": "V781",
+      "lat": -6.90379455618637,
+      "lng": 107.57671080779393,
+      "priority": "High Priority",
+      "total_cost": 84500000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "RAYA KERTAWINANGUN",
+      "frequency": 3,
+      "kode_toko": "V808",
+      "lat": -6.906092428569595,
+      "lng": 107.57256822365761,
+      "priority": "Medium Priority",
+      "total_cost": 74500000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "CISALAK MAJALENGKA",
+      "frequency": 2,
+      "kode_toko": "V858",
+      "lat": -6.951815344144082,
+      "lng": 107.59329474969972,
+      "priority": "Low Priority",
+      "total_cost": 18000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "CIBODAS MAJALENGKA",
+      "frequency": 3,
+      "kode_toko": "V860",
+      "lat": -6.9011764104970466,
+      "lng": 107.63773122082226,
+      "priority": "Medium Priority",
+      "total_cost": 39875000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "SUKAMANAH BANJARAN",
+      "frequency": 2,
+      "kode_toko": "V881",
+      "lat": -6.954293561293984,
+      "lng": 107.64924239891549,
+      "priority": "Medium Priority",
+      "total_cost": 28875000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "RAYA KASOKANDEL",
+      "frequency": 2,
+      "kode_toko": "V927",
+      "lat": -6.9607551507311545,
+      "lng": 107.61072065438478,
+      "priority": "Medium Priority",
+      "total_cost": 28000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "RAYA PEMUDA FRC",
+      "frequency": 2,
+      "kode_toko": "V936",
+      "lat": -6.951799554737543,
+      "lng": 107.61957935733078,
+      "priority": "Medium Priority",
+      "total_cost": 52000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "SITI ARMILAH",
+      "frequency": 2,
+      "kode_toko": "V945",
+      "lat": -6.933692922148334,
+      "lng": 107.60974908767737,
+      "priority": "Medium Priority",
+      "total_cost": 62000000.0,
+      "zone": "Lainnya"
+    },
+    {
+      "NAMA TOKO": "RAYA TALAGA",
+      "frequency": 1,
+      "kode_toko": "V982",
+      "lat": -6.937241078888307,
+      "lng": 107.62373509562235,
+      "priority": "Low Priority",
+      "total_cost": 14000000.0,
+      "zone": "Lainnya"
+    }
+  ],
+  "high_priority_count": 45,
+  "total_cost": 20325200000.0,
+  "total_tickets": 905
+}
