@@ -98,7 +98,7 @@ function App() {
             S
           </div>
           <div>
-            <h1 className="text-lg font-bold text-white tracking-wide">SKRIPSI<span className="text-blue-500">AI</span></h1>
+            <h1 className="text-lg font-bold text-white tracking-wide">TURTLE TEAM<span className="text-blue-500">ML</span></h1>
             <p className="text-[10px] text-slate-500 uppercase tracking-widest">Maintenance System</p>
           </div>
         </div>
