@@ -14,7 +14,7 @@
 
 | Dashboard Utama | Peta Sebaran (GIS) |
 | :---: | :---: |
-| ![Dashboard Preview](https://via.placeholder.com/600x350.png?text=Dashboard+Utama+Preview) | ![Map Preview](https://via.placeholder.com/600x350.png?text=Peta+GIS+Preview) |
+| ![Dashboard Preview](https://github.com/Ikbal-hand/gis_maintenance/blob/main/Screenshot%20from%202026-01-12%2001-24-28.png) | ![Map Preview](https://github.com/Ikbal-hand/gis_maintenance/blob/main/Screenshot%20from%202026-01-12%2001-32-11.png) |
 | *Ringkasan Statistik & K-Means* | *Visualisasi Lokasi Toko* |
 
 ---
